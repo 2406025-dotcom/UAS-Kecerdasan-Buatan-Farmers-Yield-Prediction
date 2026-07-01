@@ -1,0 +1,1 @@
+# laporan uas kecerdasan buatan
