@@ -1,0 +1,1001 @@
+Farmer_ID,Country,Age,Gender,Farm_Size,Crop_Type,Annual_Income_USD,Irrigation_Method,Education_Level,Years_of_Experience,Market_Access,Fertilizer_Use_kg_per_acre,Pesticide_Use_liters_per_acre,Yield_per_Acre_kg
+1,Pakistan,48,Male,Large (>10 acres),Tomato,15365,Canal,Secondary,18,Local Market,105.44,12.86,2194
+2,Pakistan,46,Male,Medium (2-10 acres),Sugarcane,6624,Tube well,Secondary,44,Local Market,160.63,3.26,9669
+3,Sri Lanka,22,Female,Small (<2 acres),Wheat,15358,Canal,College,2,Export,133.59,14.61,1092
+4,Nepal,42,Female,Medium (2-10 acres),Tomato,18008,Rain-fed,Primary,49,Local Market,240.62,14.19,1470
+5,Sri Lanka,33,Female,Small (<2 acres),Maize,9860,Drip,University,11,Export,133.03,4.32,9576
+6,Nepal,18,Male,Large (>10 acres),Sugarcane,6751,Drip,College,37,Local Market,140.78,13.27,2032
+7,Pakistan,19,Female,Large (>10 acres),Tomato,11419,Sprinkler,Secondary,44,Regional Market,128.69,1.72,5009
+8,India,26,Female,Large (>10 acres),Rice,2445,Drip,Secondary,40,Regional Market,296.22,11.8,1105
+9,Sri Lanka,37,Female,Large (>10 acres),Sugarcane,15020,Drip,University,35,Export,82.79,12.35,3456
+10,Sri Lanka,64,Female,Medium (2-10 acres),Sugarcane,16566,Sprinkler,University,5,Regional Market,108.64,9.0,2822
+11,Sri Lanka,23,Male,Medium (2-10 acres),Rice,17215,Canal,College,46,Local Market,136.33,16.35,9548
+12,Sri Lanka,24,Female,Medium (2-10 acres),Wheat,15890,Canal,University,20,Export,292.62,16.82,5454
+13,Nepal,58,Male,Large (>10 acres),Potato,17829,Sprinkler,University,42,Export,285.24,19.43,9677
+14,India,50,Male,Small (<2 acres),Potato,19012,Canal,College,22,Regional Market,287.75,11.46,9088
+15,Sri Lanka,60,Female,Small (<2 acres),Rice,6105,Drip,No formal education,34,Local Market,274.89,7.28,3077
+16,Pakistan,20,Female,Large (>10 acres),Wheat,15974,Tube well,Secondary,7,Export,213.57,5.36,9089
+17,Pakistan,50,Female,Medium (2-10 acres),Sugarcane,3464,Sprinkler,University,39,Export,117.4,14.4,4459
+18,India,24,Male,Small (<2 acres),Potato,9815,Sprinkler,Secondary,39,Local Market,214.21,1.39,4894
+19,Sri Lanka,60,Male,Small (<2 acres),Maize,15838,Rain-fed,University,19,Export,62.76,10.34,1385
+20,Nepal,25,Female,Large (>10 acres),Tomato,7832,Canal,University,30,Regional Market,157.43,10.03,8521
+21,Nepal,59,Female,Medium (2-10 acres),Rice,16939,Sprinkler,Primary,49,Regional Market,254.26,11.84,5468
+22,Sri Lanka,23,Female,Small (<2 acres),Maize,18035,Rain-fed,No formal education,21,Regional Market,271.39,18.38,4622
+23,India,45,Male,Large (>10 acres),Tomato,17539,Drip,University,20,Regional Market,200.32,6.12,8210
+24,Bangladesh,65,Male,Small (<2 acres),Tomato,12195,Drip,College,26,Regional Market,188.5,9.17,7987
+25,Sri Lanka,56,Male,Large (>10 acres),Maize,16763,Tube well,Primary,41,Export,206.23,1.66,1491
+26,Pakistan,48,Female,Medium (2-10 acres),Tomato,3506,Tube well,University,4,Local Market,147.61,11.71,5218
+27,Sri Lanka,53,Male,Medium (2-10 acres),Cotton,8751,Sprinkler,Secondary,30,Regional Market,162.38,7.1,1032
+28,Nepal,56,Female,Small (<2 acres),Cotton,7969,Drip,College,25,Local Market,279.43,7.24,4652
+29,Nepal,66,Male,Medium (2-10 acres),Maize,12405,Tube well,University,36,Export,164.85,5.66,2279
+30,Sri Lanka,69,Female,Medium (2-10 acres),Rice,2795,Canal,University,40,Local Market,121.55,2.61,1874
+31,Pakistan,29,Female,Large (>10 acres),Maize,7285,Rain-fed,College,30,Regional Market,134.16,15.93,9864
+32,Pakistan,68,Male,Small (<2 acres),Rice,13375,Tube well,College,26,Local Market,95.24,17.1,7753
+33,Nepal,37,Female,Small (<2 acres),Tomato,16497,Rain-fed,No formal education,23,Export,234.66,3.28,4437
+34,Sri Lanka,54,Female,Small (<2 acres),Sugarcane,18366,Sprinkler,College,35,Regional Market,250.66,19.42,1150
+35,India,70,Male,Small (<2 acres),Potato,5203,Canal,Primary,40,Regional Market,257.07,12.58,4856
+36,Bangladesh,27,Male,Small (<2 acres),Sugarcane,18041,Canal,College,28,Regional Market,47.54,6.85,3928
+37,India,19,Female,Large (>10 acres),Wheat,19624,Drip,College,6,Export,248.8,4.71,4213
+38,India,60,Female,Medium (2-10 acres),Wheat,14369,Canal,College,25,Export,220.79,13.44,4298
+39,Pakistan,21,Female,Medium (2-10 acres),Potato,13256,Tube well,Secondary,19,Local Market,43.48,11.44,9767
+40,India,19,Female,Small (<2 acres),Maize,5853,Tube well,No formal education,19,Local Market,24.57,17.59,4045
+41,Pakistan,57,Male,Large (>10 acres),Rice,15691,Canal,Primary,10,Local Market,205.1,3.05,2653
+42,India,68,Male,Small (<2 acres),Rice,18289,Sprinkler,Secondary,1,Regional Market,249.33,4.55,7929
+43,Nepal,56,Female,Medium (2-10 acres),Sugarcane,6022,Drip,Primary,8,Export,40.27,6.04,9192
+44,Nepal,31,Female,Large (>10 acres),Maize,3603,Rain-fed,University,8,Local Market,125.88,11.03,2045
+45,Nepal,20,Male,Medium (2-10 acres),Maize,18219,Canal,No formal education,15,Export,278.77,14.88,7527
+46,Nepal,23,Female,Large (>10 acres),Potato,722,Canal,No formal education,1,Local Market,189.07,0.75,5240
+47,Sri Lanka,24,Male,Large (>10 acres),Wheat,1210,Canal,Primary,5,Export,261.14,10.55,6675
+48,Bangladesh,26,Female,Large (>10 acres),Wheat,2200,Sprinkler,University,25,Local Market,84.26,12.09,5300
+49,India,46,Female,Large (>10 acres),Sugarcane,5601,Tube well,College,19,Local Market,270.93,8.11,3303
+50,India,42,Female,Medium (2-10 acres),Maize,6237,Canal,Secondary,11,Local Market,33.02,12.02,4951
+51,Pakistan,49,Female,Small (<2 acres),Potato,1799,Canal,No formal education,38,Local Market,131.53,7.28,4292
+52,Bangladesh,58,Female,Medium (2-10 acres),Maize,11003,Tube well,No formal education,1,Export,155.38,17.99,4765
+53,Nepal,25,Male,Small (<2 acres),Wheat,3499,Canal,Secondary,1,Local Market,202.63,1.72,621
+54,Nepal,19,Female,Small (<2 acres),Wheat,13545,Drip,University,23,Local Market,18.76,19.22,9344
+55,Sri Lanka,24,Female,Large (>10 acres),Rice,5466,Drip,College,48,Export,105.29,4.02,6403
+56,Bangladesh,64,Male,Medium (2-10 acres),Maize,2828,Tube well,College,13,Export,249.81,7.75,8630
+57,Nepal,40,Male,Medium (2-10 acres),Wheat,15640,Rain-fed,College,32,Local Market,85.47,1.01,5820
+58,India,24,Female,Medium (2-10 acres),Maize,11371,Sprinkler,No formal education,16,Local Market,297.58,11.29,7640
+59,Pakistan,63,Female,Large (>10 acres),Tomato,2099,Rain-fed,Secondary,20,Export,74.74,11.52,7996
+60,Bangladesh,19,Female,Large (>10 acres),Potato,16904,Rain-fed,College,48,Regional Market,214.85,13.27,8427
+61,Bangladesh,70,Male,Large (>10 acres),Sugarcane,2508,Drip,University,22,Regional Market,217.58,1.9,1664
+62,Pakistan,48,Female,Large (>10 acres),Sugarcane,1313,Drip,No formal education,3,Regional Market,132.44,5.31,5860
+63,Bangladesh,54,Male,Large (>10 acres),Wheat,1637,Canal,No formal education,11,Local Market,115.69,7.53,7564
+64,Sri Lanka,42,Female,Small (<2 acres),Rice,6093,Canal,Primary,20,Local Market,80.3,5.64,4156
+65,Nepal,29,Female,Large (>10 acres),Sugarcane,18880,Sprinkler,Secondary,19,Local Market,11.44,6.54,2810
+66,India,47,Female,Small (<2 acres),Potato,8832,Rain-fed,Secondary,26,Local Market,187.54,14.61,6219
+67,India,69,Female,Large (>10 acres),Wheat,19377,Drip,University,39,Local Market,37.43,17.85,708
+68,Nepal,29,Male,Large (>10 acres),Cotton,11042,Sprinkler,Primary,8,Export,223.99,14.59,9658
+69,Sri Lanka,38,Female,Small (<2 acres),Wheat,3775,Sprinkler,Primary,27,Local Market,81.75,5.67,919
+70,Pakistan,66,Male,Medium (2-10 acres),Sugarcane,15856,Tube well,College,13,Regional Market,273.89,15.96,5340
+71,Bangladesh,29,Male,Small (<2 acres),Potato,10829,Drip,University,6,Local Market,299.91,16.08,1602
+72,Pakistan,34,Male,Small (<2 acres),Cotton,11393,Drip,No formal education,24,Export,92.47,15.97,8720
+73,Bangladesh,40,Male,Small (<2 acres),Cotton,3087,Rain-fed,Secondary,7,Local Market,60.35,18.58,4063
+74,Bangladesh,25,Female,Small (<2 acres),Sugarcane,10199,Sprinkler,Secondary,36,Regional Market,96.09,9.55,3162
+75,Pakistan,33,Female,Small (<2 acres),Tomato,13920,Sprinkler,University,32,Export,13.79,1.67,4315
+76,Nepal,46,Male,Small (<2 acres),Cotton,3019,Sprinkler,College,47,Local Market,276.93,1.4,5385
+77,Bangladesh,60,Male,Small (<2 acres),Cotton,1470,Tube well,College,34,Local Market,151.58,12.0,6862
+78,India,57,Male,Medium (2-10 acres),Rice,17469,Canal,University,38,Local Market,67.9,6.31,7162
+79,Nepal,54,Male,Large (>10 acres),Tomato,3229,Drip,University,23,Export,120.26,14.14,9968
+80,Bangladesh,57,Male,Medium (2-10 acres),Rice,14828,Canal,College,16,Regional Market,89.89,19.57,8980
+81,Bangladesh,20,Male,Medium (2-10 acres),Tomato,10807,Sprinkler,University,49,Export,155.4,9.89,1377
+82,Sri Lanka,42,Female,Medium (2-10 acres),Cotton,12574,Rain-fed,Primary,49,Regional Market,264.87,1.51,3242
+83,Bangladesh,50,Male,Medium (2-10 acres),Potato,8481,Canal,College,19,Local Market,166.51,15.05,8350
+84,Pakistan,32,Female,Medium (2-10 acres),Cotton,14341,Tube well,No formal education,30,Local Market,30.92,14.55,8061
+85,India,47,Male,Medium (2-10 acres),Tomato,10626,Drip,University,47,Export,32.46,15.22,4228
+86,Bangladesh,60,Male,Small (<2 acres),Sugarcane,17762,Sprinkler,Secondary,8,Regional Market,142.83,6.85,8871
+87,Nepal,32,Female,Small (<2 acres),Potato,16000,Rain-fed,College,18,Local Market,235.96,1.45,8261
+88,Bangladesh,42,Male,Large (>10 acres),Cotton,18315,Rain-fed,College,24,Local Market,131.58,7.69,8761
+89,Pakistan,32,Male,Large (>10 acres),Sugarcane,12384,Tube well,University,10,Regional Market,172.47,17.1,8682
+90,Bangladesh,46,Male,Small (<2 acres),Sugarcane,12797,Canal,University,27,Export,87.81,3.03,748
+91,Bangladesh,39,Female,Large (>10 acres),Wheat,18541,Canal,Primary,48,Export,85.5,15.82,8090
+92,Pakistan,60,Female,Small (<2 acres),Maize,14003,Sprinkler,Primary,33,Export,245.02,10.31,2740
+93,Bangladesh,55,Male,Small (<2 acres),Sugarcane,19874,Sprinkler,University,16,Regional Market,248.68,3.89,2443
+94,Pakistan,64,Female,Large (>10 acres),Cotton,7026,Sprinkler,No formal education,17,Local Market,52.95,13.97,5991
+95,Nepal,48,Female,Large (>10 acres),Potato,5057,Sprinkler,College,30,Regional Market,76.32,15.88,8597
+96,India,70,Female,Large (>10 acres),Rice,18212,Drip,No formal education,38,Export,85.63,0.98,2473
+97,Bangladesh,52,Male,Small (<2 acres),Potato,10505,Sprinkler,No formal education,12,Local Market,105.42,17.01,2121
+98,Pakistan,39,Male,Medium (2-10 acres),Rice,17613,Rain-fed,No formal education,50,Regional Market,57.6,5.86,3796
+99,Pakistan,32,Female,Large (>10 acres),Sugarcane,19836,Canal,Primary,25,Export,208.38,0.84,8917
+100,Nepal,51,Male,Medium (2-10 acres),Sugarcane,4982,Sprinkler,No formal education,49,Regional Market,189.83,5.13,7953
+101,India,45,Female,Medium (2-10 acres),Potato,17148,Rain-fed,College,25,Export,74.3,19.08,1693
+102,Nepal,43,Female,Large (>10 acres),Tomato,777,Drip,Secondary,48,Regional Market,159.52,10.2,9084
+103,Bangladesh,62,Female,Small (<2 acres),Cotton,8225,Canal,College,39,Local Market,63.24,1.35,7744
+104,India,67,Female,Medium (2-10 acres),Potato,9726,Tube well,Secondary,16,Regional Market,143.66,4.42,2679
+105,Sri Lanka,58,Male,Medium (2-10 acres),Potato,11890,Tube well,No formal education,22,Regional Market,30.54,9.6,8342
+106,Sri Lanka,68,Male,Medium (2-10 acres),Tomato,1051,Sprinkler,College,46,Export,61.16,0.77,4660
+107,India,59,Female,Medium (2-10 acres),Cotton,13289,Rain-fed,Secondary,13,Regional Market,53.5,14.56,4845
+108,Bangladesh,44,Male,Small (<2 acres),Cotton,19125,Canal,University,29,Regional Market,262.46,1.89,8825
+109,Sri Lanka,27,Male,Small (<2 acres),Tomato,2925,Drip,College,30,Export,94.84,13.78,8824
+110,Pakistan,29,Female,Small (<2 acres),Tomato,4511,Canal,College,28,Local Market,203.92,4.63,7985
+111,India,39,Male,Medium (2-10 acres),Maize,7168,Sprinkler,Secondary,20,Export,244.03,12.36,2399
+112,Nepal,29,Male,Large (>10 acres),Cotton,14224,Tube well,University,37,Export,263.22,11.04,6523
+113,Sri Lanka,25,Female,Small (<2 acres),Potato,798,Canal,University,14,Regional Market,272.97,9.85,6279
+114,Sri Lanka,62,Male,Small (<2 acres),Cotton,2020,Sprinkler,No formal education,44,Regional Market,208.25,13.64,4472
+115,Sri Lanka,60,Male,Medium (2-10 acres),Maize,1883,Sprinkler,Secondary,5,Regional Market,201.18,17.45,1745
+116,Sri Lanka,59,Male,Medium (2-10 acres),Sugarcane,13620,Rain-fed,Primary,34,Regional Market,164.41,17.06,6202
+117,Bangladesh,32,Male,Large (>10 acres),Wheat,10389,Rain-fed,University,32,Local Market,124.34,1.02,5881
+118,Bangladesh,34,Female,Medium (2-10 acres),Tomato,18674,Tube well,University,33,Regional Market,171.46,2.21,2301
+119,India,37,Male,Large (>10 acres),Sugarcane,2482,Tube well,Primary,19,Export,81.73,7.73,6999
+120,Sri Lanka,53,Female,Medium (2-10 acres),Tomato,3820,Sprinkler,No formal education,34,Local Market,177.19,10.11,7580
+121,Pakistan,20,Male,Small (<2 acres),Maize,8745,Canal,No formal education,12,Export,33.52,5.04,5423
+122,Bangladesh,68,Male,Small (<2 acres),Sugarcane,10271,Drip,University,19,Regional Market,99.94,18.89,4446
+123,Sri Lanka,70,Male,Large (>10 acres),Potato,11869,Canal,College,24,Regional Market,232.54,1.07,1146
+124,Nepal,27,Male,Medium (2-10 acres),Potato,15798,Tube well,College,35,Regional Market,61.57,17.5,6017
+125,Sri Lanka,65,Male,Small (<2 acres),Tomato,5813,Tube well,University,30,Regional Market,96.83,13.21,843
+126,Bangladesh,59,Male,Small (<2 acres),Rice,4506,Canal,University,14,Regional Market,199.91,2.23,3585
+127,Bangladesh,53,Female,Small (<2 acres),Wheat,19875,Rain-fed,No formal education,8,Regional Market,283.19,15.46,4858
+128,Bangladesh,43,Male,Medium (2-10 acres),Cotton,18075,Sprinkler,No formal education,31,Regional Market,272.41,8.83,1537
+129,Nepal,68,Female,Large (>10 acres),Maize,17429,Canal,College,39,Regional Market,231.12,4.26,7171
+130,Bangladesh,24,Female,Medium (2-10 acres),Wheat,10933,Sprinkler,University,3,Regional Market,12.06,16.68,4465
+131,Sri Lanka,56,Male,Medium (2-10 acres),Rice,7087,Sprinkler,College,4,Export,199.54,5.11,954
+132,Pakistan,48,Female,Large (>10 acres),Cotton,688,Canal,Secondary,27,Regional Market,231.17,4.5,2131
+133,Bangladesh,43,Male,Medium (2-10 acres),Wheat,18963,Canal,Secondary,45,Local Market,297.12,2.94,8832
+134,Bangladesh,59,Male,Small (<2 acres),Cotton,8576,Drip,College,15,Export,110.05,7.35,5056
+135,Pakistan,43,Male,Medium (2-10 acres),Tomato,7675,Canal,Primary,12,Regional Market,98.08,15.53,3859
+136,Pakistan,65,Male,Medium (2-10 acres),Sugarcane,10147,Sprinkler,No formal education,7,Regional Market,162.41,1.59,4030
+137,India,21,Male,Large (>10 acres),Wheat,6947,Sprinkler,No formal education,26,Local Market,230.88,19.33,7735
+138,Sri Lanka,69,Male,Small (<2 acres),Tomato,15322,Tube well,No formal education,13,Regional Market,29.89,10.67,4784
+139,India,32,Male,Large (>10 acres),Maize,5123,Tube well,Secondary,29,Regional Market,298.32,11.65,7572
+140,Pakistan,20,Male,Large (>10 acres),Potato,15876,Rain-fed,College,18,Local Market,99.44,4.01,9910
+141,India,39,Female,Medium (2-10 acres),Rice,8285,Rain-fed,No formal education,18,Local Market,94.09,17.18,4888
+142,Nepal,58,Female,Large (>10 acres),Maize,2462,Rain-fed,No formal education,20,Regional Market,217.57,13.59,3368
+143,Sri Lanka,35,Female,Medium (2-10 acres),Wheat,14881,Canal,Primary,26,Local Market,207.0,12.37,9492
+144,Pakistan,51,Male,Small (<2 acres),Cotton,9019,Rain-fed,University,40,Regional Market,272.78,12.15,1356
+145,Pakistan,40,Female,Medium (2-10 acres),Wheat,2681,Sprinkler,Primary,12,Regional Market,265.89,14.45,2502
+146,Nepal,54,Female,Small (<2 acres),Sugarcane,6459,Sprinkler,Secondary,3,Regional Market,294.5,8.28,677
+147,Nepal,38,Male,Large (>10 acres),Rice,6989,Sprinkler,No formal education,28,Local Market,93.32,12.91,5996
+148,Bangladesh,62,Male,Medium (2-10 acres),Maize,12959,Tube well,University,10,Regional Market,258.49,9.52,6214
+149,Pakistan,64,Female,Large (>10 acres),Maize,15183,Canal,University,22,Local Market,252.78,8.5,3649
+150,Sri Lanka,47,Male,Small (<2 acres),Rice,9959,Rain-fed,Secondary,1,Regional Market,148.79,3.96,5600
+151,Nepal,47,Male,Small (<2 acres),Potato,17972,Canal,University,34,Regional Market,200.95,11.65,7732
+152,Bangladesh,38,Female,Medium (2-10 acres),Rice,5945,Tube well,Secondary,46,Local Market,27.67,15.72,7316
+153,Bangladesh,48,Male,Small (<2 acres),Potato,6412,Drip,College,19,Regional Market,287.35,9.84,3796
+154,Nepal,31,Male,Small (<2 acres),Cotton,16085,Tube well,Secondary,33,Regional Market,290.53,10.94,3293
+155,Pakistan,27,Female,Medium (2-10 acres),Rice,781,Rain-fed,Primary,37,Export,30.16,3.67,9252
+156,Sri Lanka,54,Female,Medium (2-10 acres),Sugarcane,8069,Tube well,No formal education,6,Local Market,127.89,1.7,9713
+157,Sri Lanka,39,Male,Medium (2-10 acres),Cotton,17775,Rain-fed,University,21,Local Market,90.39,0.7,7439
+158,Bangladesh,29,Female,Medium (2-10 acres),Tomato,18266,Tube well,Secondary,48,Export,296.22,16.1,2776
+159,Sri Lanka,35,Female,Small (<2 acres),Rice,2926,Rain-fed,College,49,Export,255.1,4.29,2351
+160,India,38,Female,Small (<2 acres),Maize,2623,Canal,Primary,15,Regional Market,48.59,18.0,2560
+161,Sri Lanka,53,Female,Large (>10 acres),Wheat,6197,Tube well,No formal education,9,Export,197.36,11.71,9641
+162,Pakistan,21,Female,Small (<2 acres),Cotton,19397,Drip,University,1,Export,17.02,3.97,8976
+163,Bangladesh,50,Male,Large (>10 acres),Maize,7127,Tube well,College,28,Regional Market,228.81,1.13,6932
+164,Pakistan,53,Female,Small (<2 acres),Wheat,10612,Sprinkler,Primary,42,Export,120.69,17.84,8019
+165,India,44,Male,Small (<2 acres),Rice,3387,Drip,College,20,Local Market,212.87,2.32,8755
+166,Nepal,47,Male,Large (>10 acres),Wheat,6590,Rain-fed,No formal education,13,Export,217.22,6.64,9261
+167,India,36,Female,Large (>10 acres),Wheat,949,Rain-fed,Secondary,23,Export,62.11,3.93,4078
+168,Nepal,44,Female,Large (>10 acres),Maize,16023,Sprinkler,College,11,Local Market,271.77,2.33,6001
+169,India,64,Female,Small (<2 acres),Maize,6465,Sprinkler,College,18,Export,11.84,18.43,4350
+170,Sri Lanka,47,Female,Medium (2-10 acres),Sugarcane,17882,Drip,No formal education,11,Regional Market,185.78,5.0,1774
+171,Nepal,34,Male,Medium (2-10 acres),Rice,5787,Sprinkler,Primary,29,Export,34.24,19.95,4415
+172,Bangladesh,46,Male,Small (<2 acres),Maize,11413,Canal,No formal education,29,Export,34.54,19.92,9759
+173,Sri Lanka,37,Female,Large (>10 acres),Sugarcane,17766,Rain-fed,Primary,41,Regional Market,119.06,2.06,6669
+174,Sri Lanka,46,Female,Medium (2-10 acres),Potato,11298,Sprinkler,Primary,49,Local Market,292.34,17.19,2115
+175,Sri Lanka,35,Female,Medium (2-10 acres),Sugarcane,8814,Tube well,Secondary,30,Export,84.63,16.28,4158
+176,Sri Lanka,56,Male,Small (<2 acres),Maize,1067,Canal,No formal education,50,Export,148.97,16.42,5001
+177,India,45,Female,Large (>10 acres),Maize,13674,Sprinkler,College,1,Regional Market,282.44,9.28,2547
+178,Bangladesh,63,Female,Medium (2-10 acres),Maize,18113,Drip,College,38,Local Market,154.37,3.34,7344
+179,India,36,Female,Large (>10 acres),Wheat,18534,Tube well,Secondary,12,Regional Market,147.84,3.37,4460
+180,Sri Lanka,31,Female,Small (<2 acres),Potato,10994,Tube well,Primary,13,Export,113.62,18.42,6479
+181,Bangladesh,21,Female,Medium (2-10 acres),Cotton,3628,Drip,Primary,32,Regional Market,291.06,11.92,1848
+182,Sri Lanka,23,Female,Medium (2-10 acres),Maize,6106,Rain-fed,College,5,Regional Market,83.98,3.9,5401
+183,Bangladesh,56,Male,Small (<2 acres),Tomato,16781,Canal,University,13,Local Market,156.76,16.33,3697
+184,Pakistan,31,Female,Medium (2-10 acres),Wheat,15029,Canal,University,17,Regional Market,155.04,9.73,802
+185,Pakistan,18,Male,Medium (2-10 acres),Sugarcane,13183,Drip,Secondary,44,Regional Market,153.1,16.09,9353
+186,Nepal,70,Male,Small (<2 acres),Cotton,9771,Sprinkler,No formal education,35,Regional Market,121.86,8.03,4051
+187,Pakistan,47,Female,Large (>10 acres),Rice,15295,Rain-fed,College,23,Export,239.82,12.3,5513
+188,Bangladesh,23,Female,Large (>10 acres),Maize,13526,Sprinkler,No formal education,20,Local Market,75.66,3.01,2742
+189,Bangladesh,30,Male,Large (>10 acres),Maize,16726,Rain-fed,No formal education,18,Export,253.01,3.7,2528
+190,Bangladesh,36,Male,Small (<2 acres),Rice,3657,Canal,Primary,33,Local Market,159.96,4.15,6241
+191,Nepal,69,Female,Small (<2 acres),Wheat,17615,Rain-fed,University,17,Export,23.05,7.61,1321
+192,India,23,Male,Large (>10 acres),Potato,7653,Canal,No formal education,35,Local Market,201.72,14.48,1985
+193,Bangladesh,45,Female,Medium (2-10 acres),Sugarcane,7485,Canal,College,45,Regional Market,272.45,2.62,1128
+194,Sri Lanka,26,Male,Small (<2 acres),Rice,19848,Tube well,No formal education,41,Export,219.25,19.03,761
+195,Sri Lanka,60,Female,Large (>10 acres),Wheat,13086,Rain-fed,College,18,Regional Market,204.19,15.39,4219
+196,Pakistan,47,Female,Medium (2-10 acres),Maize,3086,Sprinkler,No formal education,18,Regional Market,256.84,2.02,6227
+197,Bangladesh,19,Female,Small (<2 acres),Wheat,7994,Drip,College,6,Export,110.73,7.1,2149
+198,Nepal,29,Female,Medium (2-10 acres),Potato,13154,Drip,University,6,Export,259.13,16.46,3604
+199,Nepal,47,Male,Medium (2-10 acres),Maize,5595,Drip,College,14,Export,293.38,4.34,3942
+200,Pakistan,66,Female,Small (<2 acres),Cotton,817,Rain-fed,College,3,Local Market,248.68,0.98,2914
+201,Nepal,52,Male,Medium (2-10 acres),Maize,5572,Drip,College,3,Local Market,109.51,18.53,6161
+202,Sri Lanka,64,Female,Large (>10 acres),Rice,2337,Tube well,College,49,Regional Market,186.98,0.52,7770
+203,Bangladesh,37,Female,Medium (2-10 acres),Cotton,9162,Canal,University,26,Local Market,99.17,19.94,577
+204,India,55,Female,Medium (2-10 acres),Rice,12571,Sprinkler,Primary,31,Regional Market,281.66,12.8,8115
+205,Bangladesh,57,Female,Medium (2-10 acres),Maize,17420,Sprinkler,Primary,5,Local Market,64.72,4.87,4402
+206,India,62,Male,Large (>10 acres),Wheat,3102,Tube well,College,37,Export,122.58,16.59,3167
+207,Bangladesh,60,Female,Large (>10 acres),Maize,17707,Canal,Secondary,48,Regional Market,140.26,0.75,7398
+208,Nepal,19,Female,Medium (2-10 acres),Cotton,15199,Tube well,University,18,Regional Market,233.31,16.9,6703
+209,India,56,Male,Large (>10 acres),Sugarcane,5622,Drip,College,40,Local Market,259.41,5.54,2371
+210,Nepal,38,Male,Large (>10 acres),Rice,13927,Sprinkler,Primary,27,Regional Market,185.67,3.71,8763
+211,Sri Lanka,28,Female,Large (>10 acres),Rice,8970,Sprinkler,University,37,Local Market,170.78,17.76,7773
+212,Pakistan,34,Male,Small (<2 acres),Sugarcane,2287,Tube well,University,3,Export,16.51,6.18,7137
+213,Nepal,22,Male,Medium (2-10 acres),Rice,13119,Drip,Secondary,38,Regional Market,46.86,11.71,9723
+214,Nepal,36,Male,Medium (2-10 acres),Wheat,9869,Rain-fed,Primary,49,Export,58.49,15.0,3027
+215,Pakistan,70,Female,Small (<2 acres),Rice,19279,Tube well,College,11,Export,180.31,19.81,3196
+216,Bangladesh,56,Male,Small (<2 acres),Cotton,10384,Rain-fed,Secondary,39,Export,215.82,11.16,2089
+217,India,60,Female,Large (>10 acres),Sugarcane,7354,Rain-fed,Secondary,46,Local Market,270.79,14.83,1558
+218,Pakistan,53,Female,Small (<2 acres),Sugarcane,5508,Sprinkler,College,48,Export,11.22,13.38,5606
+219,India,32,Female,Small (<2 acres),Sugarcane,18222,Drip,University,6,Export,55.22,4.51,1972
+220,Pakistan,33,Male,Medium (2-10 acres),Potato,8031,Rain-fed,Primary,46,Export,252.0,9.55,2362
+221,Nepal,57,Female,Small (<2 acres),Cotton,10171,Sprinkler,Primary,43,Regional Market,219.88,1.28,1403
+222,India,55,Male,Medium (2-10 acres),Sugarcane,4500,Sprinkler,Primary,34,Export,179.1,19.6,2433
+223,India,31,Male,Small (<2 acres),Rice,10497,Tube well,College,15,Export,43.41,15.97,8304
+224,Nepal,28,Male,Large (>10 acres),Tomato,10706,Rain-fed,Secondary,22,Export,222.39,14.76,2811
+225,Sri Lanka,39,Male,Small (<2 acres),Sugarcane,3929,Rain-fed,Primary,45,Export,207.41,5.81,5326
+226,Bangladesh,43,Female,Medium (2-10 acres),Wheat,19770,Drip,Secondary,13,Regional Market,159.2,1.35,6069
+227,India,65,Male,Small (<2 acres),Rice,17887,Canal,College,20,Export,139.16,11.67,1460
+228,Bangladesh,67,Male,Small (<2 acres),Rice,11425,Sprinkler,Secondary,14,Local Market,50.76,14.67,4152
+229,Bangladesh,65,Male,Medium (2-10 acres),Maize,12365,Sprinkler,College,5,Export,43.75,9.26,2038
+230,Bangladesh,18,Male,Small (<2 acres),Wheat,12331,Sprinkler,No formal education,18,Regional Market,30.65,17.24,4117
+231,India,31,Female,Small (<2 acres),Rice,7448,Tube well,Primary,38,Export,261.63,17.08,6136
+232,Pakistan,42,Female,Large (>10 acres),Potato,13218,Rain-fed,College,24,Local Market,48.96,9.46,8620
+233,Sri Lanka,69,Male,Small (<2 acres),Wheat,6763,Canal,Secondary,49,Regional Market,258.33,4.11,817
+234,Bangladesh,27,Male,Small (<2 acres),Rice,15881,Tube well,Primary,14,Export,197.15,14.39,3863
+235,Sri Lanka,20,Female,Small (<2 acres),Rice,5396,Sprinkler,Secondary,24,Regional Market,29.08,15.77,6435
+236,Nepal,28,Female,Small (<2 acres),Maize,13679,Sprinkler,College,44,Export,105.7,11.24,534
+237,India,62,Female,Medium (2-10 acres),Sugarcane,15571,Sprinkler,College,44,Export,14.58,4.49,5323
+238,India,70,Female,Small (<2 acres),Sugarcane,11591,Tube well,Secondary,41,Regional Market,58.36,16.9,7307
+239,Sri Lanka,29,Male,Large (>10 acres),Maize,615,Rain-fed,Primary,11,Export,197.87,14.64,6057
+240,India,43,Male,Medium (2-10 acres),Sugarcane,5429,Tube well,University,27,Regional Market,30.16,4.09,4505
+241,Pakistan,20,Female,Small (<2 acres),Maize,12890,Canal,College,22,Export,19.7,12.71,7052
+242,Bangladesh,60,Female,Large (>10 acres),Rice,7161,Drip,No formal education,40,Export,103.72,12.04,7867
+243,Nepal,36,Female,Large (>10 acres),Sugarcane,10156,Canal,University,10,Regional Market,85.39,16.44,9117
+244,Pakistan,64,Female,Medium (2-10 acres),Maize,12673,Canal,Secondary,37,Export,243.36,3.5,8895
+245,Sri Lanka,25,Female,Large (>10 acres),Wheat,11537,Sprinkler,No formal education,5,Local Market,115.08,7.14,6161
+246,Pakistan,34,Female,Small (<2 acres),Potato,1326,Rain-fed,Secondary,5,Regional Market,80.71,2.7,4532
+247,Pakistan,19,Female,Small (<2 acres),Sugarcane,17676,Rain-fed,No formal education,18,Regional Market,133.17,2.6,8109
+248,India,52,Male,Large (>10 acres),Potato,6461,Tube well,Secondary,38,Export,235.62,10.43,9849
+249,Nepal,31,Female,Medium (2-10 acres),Cotton,11435,Drip,Secondary,5,Regional Market,184.47,10.86,804
+250,India,35,Male,Small (<2 acres),Sugarcane,9831,Sprinkler,No formal education,18,Export,150.74,15.14,5574
+251,Bangladesh,38,Female,Large (>10 acres),Wheat,14720,Drip,Primary,7,Local Market,172.97,2.99,8332
+252,Bangladesh,20,Female,Large (>10 acres),Sugarcane,5058,Drip,No formal education,13,Local Market,36.12,5.93,1483
+253,Nepal,52,Male,Large (>10 acres),Wheat,9971,Canal,Primary,32,Regional Market,292.43,18.64,1338
+254,Pakistan,37,Male,Medium (2-10 acres),Tomato,1819,Canal,University,45,Regional Market,235.51,12.4,1531
+255,Nepal,54,Male,Medium (2-10 acres),Potato,18845,Sprinkler,College,2,Regional Market,193.41,11.86,2757
+256,Sri Lanka,39,Female,Large (>10 acres),Maize,1190,Drip,University,50,Export,84.98,5.89,6563
+257,Nepal,31,Female,Small (<2 acres),Tomato,1779,Tube well,University,27,Regional Market,273.22,1.41,9991
+258,Nepal,61,Female,Large (>10 acres),Sugarcane,12441,Rain-fed,College,10,Regional Market,283.41,14.57,6832
+259,Nepal,39,Female,Large (>10 acres),Maize,9181,Sprinkler,Primary,42,Export,64.23,6.58,7658
+260,Nepal,53,Male,Medium (2-10 acres),Potato,8962,Drip,University,48,Regional Market,214.32,3.92,9115
+261,India,41,Male,Large (>10 acres),Potato,7422,Canal,University,30,Local Market,74.15,5.86,8319
+262,Pakistan,38,Male,Medium (2-10 acres),Wheat,684,Tube well,College,35,Export,290.31,16.06,5526
+263,Sri Lanka,58,Male,Large (>10 acres),Sugarcane,14099,Rain-fed,Primary,36,Export,119.86,12.6,4848
+264,Pakistan,59,Female,Large (>10 acres),Sugarcane,5729,Tube well,No formal education,34,Regional Market,15.88,10.28,3749
+265,Nepal,46,Female,Medium (2-10 acres),Tomato,8048,Canal,No formal education,40,Local Market,261.82,15.39,3879
+266,Bangladesh,53,Female,Large (>10 acres),Rice,15102,Drip,University,23,Export,237.75,2.56,8123
+267,Nepal,25,Female,Small (<2 acres),Sugarcane,4506,Tube well,University,29,Regional Market,280.1,4.7,1514
+268,Nepal,65,Female,Medium (2-10 acres),Potato,2997,Tube well,College,28,Export,120.57,3.13,9229
+269,India,66,Male,Medium (2-10 acres),Wheat,8089,Canal,No formal education,42,Export,87.4,8.25,3173
+270,Pakistan,66,Female,Small (<2 acres),Tomato,9369,Canal,University,47,Export,240.11,16.02,1262
+271,Bangladesh,58,Female,Small (<2 acres),Rice,814,Drip,College,37,Export,133.34,0.86,936
+272,Sri Lanka,24,Male,Medium (2-10 acres),Potato,15037,Tube well,College,14,Local Market,119.57,8.4,9265
+273,Bangladesh,67,Female,Small (<2 acres),Sugarcane,7542,Canal,College,31,Export,74.36,18.41,6574
+274,Sri Lanka,64,Male,Large (>10 acres),Wheat,11864,Drip,University,35,Export,269.38,14.7,7569
+275,Sri Lanka,67,Male,Large (>10 acres),Wheat,17289,Sprinkler,University,42,Export,197.5,14.97,1182
+276,Sri Lanka,23,Male,Medium (2-10 acres),Cotton,15774,Canal,No formal education,34,Regional Market,190.2,7.7,8899
+277,Pakistan,20,Female,Small (<2 acres),Tomato,15456,Sprinkler,University,20,Regional Market,187.46,17.44,5452
+278,India,25,Female,Large (>10 acres),Wheat,7835,Tube well,No formal education,11,Export,65.75,8.7,1102
+279,Nepal,56,Female,Medium (2-10 acres),Tomato,19579,Rain-fed,Secondary,40,Export,201.16,9.04,2595
+280,Nepal,41,Male,Small (<2 acres),Rice,11022,Drip,Primary,5,Export,213.02,0.72,7466
+281,Nepal,35,Male,Large (>10 acres),Wheat,19489,Tube well,University,46,Regional Market,209.0,15.82,9978
+282,Bangladesh,24,Male,Large (>10 acres),Wheat,13810,Sprinkler,Secondary,39,Local Market,113.78,10.45,3291
+283,Nepal,60,Female,Large (>10 acres),Wheat,19747,Drip,Primary,35,Local Market,42.11,13.76,3255
+284,Nepal,69,Female,Medium (2-10 acres),Maize,15019,Tube well,University,25,Export,278.98,19.84,6710
+285,Nepal,62,Male,Large (>10 acres),Wheat,16985,Drip,College,46,Local Market,182.82,5.29,657
+286,Bangladesh,36,Female,Medium (2-10 acres),Potato,9262,Drip,Secondary,2,Export,151.14,13.68,8572
+287,Sri Lanka,59,Female,Medium (2-10 acres),Cotton,10582,Rain-fed,Primary,16,Export,206.06,13.23,2492
+288,India,64,Male,Large (>10 acres),Potato,16622,Tube well,College,18,Export,88.11,1.62,9037
+289,Sri Lanka,21,Female,Large (>10 acres),Sugarcane,15096,Rain-fed,Primary,18,Export,147.44,1.55,6281
+290,Bangladesh,44,Female,Large (>10 acres),Cotton,14072,Tube well,University,37,Regional Market,78.75,3.85,7146
+291,Sri Lanka,35,Male,Medium (2-10 acres),Tomato,15247,Drip,Primary,13,Local Market,173.61,11.25,9130
+292,Nepal,20,Female,Large (>10 acres),Rice,18010,Tube well,No formal education,18,Regional Market,227.45,6.13,1538
+293,Nepal,57,Male,Small (<2 acres),Cotton,18406,Rain-fed,Primary,7,Export,86.68,14.92,8466
+294,Sri Lanka,18,Male,Medium (2-10 acres),Rice,16778,Tube well,University,16,Local Market,181.64,9.06,8641
+295,India,31,Female,Small (<2 acres),Cotton,1904,Tube well,College,2,Local Market,184.55,17.19,7846
+296,Pakistan,45,Male,Large (>10 acres),Tomato,7955,Tube well,Primary,35,Local Market,124.05,2.49,3458
+297,Nepal,57,Female,Medium (2-10 acres),Sugarcane,4142,Drip,Primary,2,Regional Market,112.09,18.46,7675
+298,Bangladesh,37,Female,Medium (2-10 acres),Tomato,2153,Rain-fed,Secondary,36,Regional Market,229.09,2.83,3443
+299,Nepal,65,Male,Large (>10 acres),Rice,6009,Tube well,Secondary,21,Export,184.3,19.34,6711
+300,India,48,Female,Large (>10 acres),Rice,959,Rain-fed,No formal education,40,Export,261.81,10.7,8334
+301,Bangladesh,53,Female,Small (<2 acres),Maize,4017,Drip,University,15,Local Market,253.27,1.08,8941
+302,Bangladesh,40,Male,Small (<2 acres),Cotton,7862,Sprinkler,Secondary,14,Local Market,124.19,12.98,869
+303,Pakistan,54,Male,Medium (2-10 acres),Rice,7145,Sprinkler,No formal education,35,Local Market,146.02,3.04,9382
+304,Sri Lanka,23,Female,Large (>10 acres),Rice,5107,Sprinkler,No formal education,32,Local Market,294.39,3.35,1321
+305,India,66,Female,Medium (2-10 acres),Cotton,4864,Tube well,Secondary,11,Local Market,185.62,4.26,5928
+306,Nepal,23,Female,Small (<2 acres),Wheat,9985,Drip,Primary,29,Regional Market,22.34,13.32,9616
+307,India,64,Female,Small (<2 acres),Potato,4262,Rain-fed,College,2,Export,59.73,17.17,3480
+308,Bangladesh,31,Male,Medium (2-10 acres),Rice,10775,Drip,University,22,Local Market,211.54,9.04,6300
+309,Sri Lanka,35,Male,Large (>10 acres),Potato,16234,Drip,University,18,Local Market,253.61,0.52,9054
+310,Pakistan,52,Male,Large (>10 acres),Potato,19168,Canal,Primary,3,Export,114.35,5.22,5265
+311,Sri Lanka,41,Female,Small (<2 acres),Rice,4984,Sprinkler,Primary,46,Export,240.25,5.07,3910
+312,Bangladesh,28,Female,Medium (2-10 acres),Sugarcane,4021,Rain-fed,Secondary,11,Regional Market,120.99,14.15,1588
+313,India,18,Male,Large (>10 acres),Rice,10647,Sprinkler,Primary,4,Export,243.5,5.24,8926
+314,India,27,Female,Small (<2 acres),Maize,2542,Sprinkler,Primary,27,Export,77.57,9.36,1006
+315,Bangladesh,20,Female,Small (<2 acres),Cotton,5385,Tube well,Primary,16,Export,261.2,7.51,1613
+316,Sri Lanka,38,Female,Small (<2 acres),Wheat,9324,Drip,No formal education,2,Local Market,255.74,4.84,8093
+317,Bangladesh,69,Male,Small (<2 acres),Wheat,14161,Tube well,College,11,Regional Market,249.16,7.52,5062
+318,Nepal,58,Female,Medium (2-10 acres),Tomato,12478,Tube well,College,4,Local Market,26.16,15.98,4203
+319,Pakistan,55,Female,Small (<2 acres),Maize,6721,Sprinkler,No formal education,5,Local Market,166.65,5.56,6384
+320,Nepal,61,Male,Large (>10 acres),Potato,4498,Drip,Secondary,14,Local Market,59.4,16.02,6040
+321,India,33,Male,Large (>10 acres),Rice,2364,Rain-fed,Secondary,47,Export,144.77,12.66,1689
+322,Sri Lanka,66,Male,Medium (2-10 acres),Tomato,11323,Drip,Primary,43,Export,46.38,18.62,8445
+323,Pakistan,37,Female,Small (<2 acres),Rice,14575,Sprinkler,University,26,Local Market,256.03,10.06,3343
+324,Pakistan,42,Male,Large (>10 acres),Tomato,18466,Sprinkler,Primary,9,Local Market,17.86,19.88,3465
+325,India,21,Male,Small (<2 acres),Tomato,19101,Canal,University,45,Local Market,202.5,8.24,4766
+326,Nepal,21,Male,Small (<2 acres),Tomato,4338,Rain-fed,University,14,Regional Market,124.71,8.04,2359
+327,Nepal,39,Male,Medium (2-10 acres),Cotton,4846,Tube well,Primary,48,Export,104.04,19.97,1035
+328,Bangladesh,58,Male,Large (>10 acres),Cotton,9528,Rain-fed,Primary,50,Export,299.86,2.22,5940
+329,India,59,Female,Small (<2 acres),Maize,19949,Rain-fed,Primary,12,Regional Market,223.53,12.38,7088
+330,Sri Lanka,40,Male,Small (<2 acres),Sugarcane,5919,Sprinkler,Primary,34,Regional Market,124.72,16.23,2253
+331,India,20,Female,Small (<2 acres),Tomato,6659,Drip,Secondary,6,Regional Market,97.55,12.5,6779
+332,Nepal,52,Male,Large (>10 acres),Sugarcane,12999,Canal,College,14,Local Market,236.98,17.36,600
+333,Bangladesh,51,Female,Small (<2 acres),Cotton,15866,Sprinkler,Secondary,17,Export,263.43,6.19,7797
+334,Sri Lanka,67,Male,Medium (2-10 acres),Potato,5049,Sprinkler,College,17,Regional Market,257.1,11.89,7294
+335,Pakistan,29,Male,Small (<2 acres),Sugarcane,9545,Drip,University,39,Local Market,74.73,6.98,2153
+336,Nepal,34,Male,Medium (2-10 acres),Rice,19024,Canal,College,29,Local Market,131.19,16.92,6014
+337,India,55,Female,Large (>10 acres),Potato,3587,Sprinkler,No formal education,11,Regional Market,68.08,1.34,6382
+338,India,65,Female,Large (>10 acres),Maize,3733,Sprinkler,No formal education,16,Local Market,140.47,14.95,9094
+339,Bangladesh,26,Male,Large (>10 acres),Wheat,15780,Canal,No formal education,30,Regional Market,144.99,1.48,2828
+340,Nepal,47,Male,Small (<2 acres),Potato,7279,Tube well,No formal education,39,Export,41.22,16.14,2129
+341,India,54,Female,Large (>10 acres),Cotton,18523,Sprinkler,College,1,Regional Market,24.11,10.31,6688
+342,Pakistan,39,Male,Medium (2-10 acres),Rice,10173,Drip,Secondary,14,Export,220.4,12.14,5084
+343,Sri Lanka,53,Female,Small (<2 acres),Rice,1546,Rain-fed,College,6,Regional Market,152.42,15.36,8156
+344,India,58,Female,Medium (2-10 acres),Rice,3299,Drip,Secondary,12,Export,80.85,5.58,2800
+345,Pakistan,25,Female,Small (<2 acres),Maize,3460,Canal,University,40,Export,82.96,6.87,1391
+346,Bangladesh,58,Female,Small (<2 acres),Cotton,12568,Rain-fed,Primary,5,Local Market,219.6,19.28,1116
+347,Bangladesh,52,Male,Medium (2-10 acres),Sugarcane,9782,Drip,College,16,Regional Market,75.99,4.15,8683
+348,India,63,Female,Medium (2-10 acres),Potato,16363,Rain-fed,University,38,Local Market,156.95,1.3,5981
+349,India,40,Male,Large (>10 acres),Cotton,2737,Rain-fed,Secondary,45,Export,199.01,19.67,3886
+350,Pakistan,22,Male,Medium (2-10 acres),Tomato,7588,Sprinkler,Primary,9,Regional Market,77.75,7.87,5523
+351,Bangladesh,65,Male,Medium (2-10 acres),Rice,14579,Tube well,University,27,Regional Market,128.03,12.8,6046
+352,Sri Lanka,44,Male,Large (>10 acres),Cotton,16704,Tube well,Primary,30,Local Market,201.79,19.42,6303
+353,Sri Lanka,43,Male,Large (>10 acres),Tomato,15866,Rain-fed,No formal education,3,Export,41.95,8.59,8900
+354,Bangladesh,53,Male,Large (>10 acres),Potato,3222,Rain-fed,No formal education,19,Local Market,260.31,17.17,1287
+355,Sri Lanka,63,Female,Small (<2 acres),Potato,8721,Canal,No formal education,50,Export,130.06,18.46,9327
+356,Bangladesh,47,Male,Small (<2 acres),Maize,8000,Rain-fed,Secondary,10,Local Market,18.8,6.11,9818
+357,Bangladesh,45,Female,Large (>10 acres),Maize,10375,Tube well,Primary,34,Local Market,270.6,3.23,5157
+358,Bangladesh,43,Male,Medium (2-10 acres),Maize,16443,Rain-fed,University,4,Local Market,211.61,1.65,7126
+359,Bangladesh,58,Male,Large (>10 acres),Sugarcane,18794,Sprinkler,College,6,Regional Market,225.79,3.08,5560
+360,India,48,Female,Medium (2-10 acres),Sugarcane,10565,Rain-fed,University,49,Regional Market,36.46,17.8,5007
+361,Sri Lanka,48,Female,Small (<2 acres),Rice,2384,Tube well,No formal education,39,Local Market,220.77,17.81,7288
+362,India,24,Female,Medium (2-10 acres),Rice,15027,Sprinkler,College,50,Export,46.31,10.8,6602
+363,India,26,Female,Small (<2 acres),Sugarcane,17171,Tube well,No formal education,32,Regional Market,224.19,8.49,8592
+364,India,20,Female,Small (<2 acres),Maize,17640,Drip,College,14,Export,141.6,1.43,7653
+365,Pakistan,48,Female,Small (<2 acres),Wheat,13695,Rain-fed,University,42,Regional Market,238.58,18.78,9645
+366,Nepal,29,Female,Medium (2-10 acres),Sugarcane,18362,Canal,No formal education,24,Local Market,83.61,19.1,2194
+367,India,31,Male,Medium (2-10 acres),Tomato,8820,Rain-fed,College,6,Export,192.47,8.56,7906
+368,Sri Lanka,26,Female,Small (<2 acres),Sugarcane,14764,Drip,Primary,27,Export,278.21,2.48,6315
+369,Nepal,38,Male,Small (<2 acres),Potato,13069,Tube well,College,1,Regional Market,61.75,1.09,5545
+370,Nepal,49,Female,Large (>10 acres),Rice,10125,Canal,College,19,Local Market,231.17,8.19,8056
+371,Nepal,39,Male,Large (>10 acres),Potato,3317,Rain-fed,University,9,Export,176.64,2.91,8151
+372,Nepal,39,Male,Medium (2-10 acres),Sugarcane,625,Drip,Secondary,35,Regional Market,190.4,13.22,6103
+373,Sri Lanka,29,Male,Medium (2-10 acres),Cotton,9810,Rain-fed,College,45,Local Market,246.46,3.04,626
+374,Nepal,33,Female,Large (>10 acres),Sugarcane,18330,Drip,University,17,Local Market,124.79,17.93,5496
+375,Pakistan,55,Female,Large (>10 acres),Potato,19598,Drip,College,34,Export,172.03,2.0,6067
+376,Bangladesh,59,Male,Medium (2-10 acres),Sugarcane,17087,Sprinkler,College,36,Regional Market,297.61,13.27,5617
+377,Nepal,21,Female,Medium (2-10 acres),Cotton,11096,Canal,College,45,Local Market,184.74,8.08,1832
+378,India,53,Female,Large (>10 acres),Rice,2502,Canal,No formal education,3,Local Market,70.67,11.22,4309
+379,India,63,Male,Large (>10 acres),Rice,12573,Rain-fed,Secondary,12,Regional Market,277.8,6.82,5082
+380,Bangladesh,50,Female,Small (<2 acres),Cotton,7851,Rain-fed,Secondary,11,Regional Market,268.43,12.93,4471
+381,Bangladesh,39,Female,Medium (2-10 acres),Wheat,19959,Tube well,University,46,Regional Market,126.73,1.75,3474
+382,Nepal,51,Male,Large (>10 acres),Potato,13943,Drip,Primary,36,Local Market,290.15,12.95,6032
+383,Pakistan,32,Female,Medium (2-10 acres),Maize,19533,Tube well,Primary,10,Export,98.12,13.92,4011
+384,India,34,Male,Small (<2 acres),Sugarcane,2511,Sprinkler,College,20,Export,16.45,19.84,9342
+385,Pakistan,36,Male,Small (<2 acres),Maize,19054,Rain-fed,Primary,50,Export,106.7,9.99,993
+386,India,22,Male,Medium (2-10 acres),Tomato,809,Drip,College,12,Regional Market,162.2,9.04,1916
+387,Pakistan,45,Male,Medium (2-10 acres),Maize,11624,Tube well,Secondary,35,Local Market,157.64,9.32,3427
+388,India,44,Female,Small (<2 acres),Sugarcane,12622,Canal,College,10,Export,204.69,8.65,2043
+389,Pakistan,55,Female,Small (<2 acres),Wheat,15740,Tube well,Secondary,13,Local Market,20.92,2.7,5666
+390,Nepal,19,Male,Large (>10 acres),Cotton,14737,Drip,College,45,Export,185.52,19.43,5133
+391,Nepal,54,Male,Small (<2 acres),Rice,12631,Rain-fed,College,22,Export,169.2,12.31,3216
+392,Nepal,38,Female,Large (>10 acres),Rice,12353,Canal,Secondary,43,Local Market,169.34,9.33,5450
+393,Bangladesh,57,Female,Small (<2 acres),Sugarcane,10621,Sprinkler,University,37,Regional Market,68.04,13.29,4968
+394,India,69,Male,Large (>10 acres),Wheat,9137,Sprinkler,No formal education,35,Local Market,230.35,5.49,9803
+395,Nepal,45,Female,Medium (2-10 acres),Sugarcane,17593,Tube well,Secondary,49,Regional Market,24.29,3.59,6389
+396,Bangladesh,27,Female,Small (<2 acres),Potato,2030,Tube well,Secondary,41,Export,140.79,17.94,6974
+397,Sri Lanka,51,Male,Medium (2-10 acres),Wheat,9177,Tube well,Primary,40,Regional Market,143.89,14.77,8369
+398,Pakistan,22,Female,Large (>10 acres),Sugarcane,16401,Rain-fed,College,6,Regional Market,174.64,11.17,6518
+399,Bangladesh,23,Female,Large (>10 acres),Wheat,14049,Drip,No formal education,38,Regional Market,204.23,1.21,9695
+400,Pakistan,58,Female,Medium (2-10 acres),Maize,14792,Canal,College,3,Regional Market,263.34,15.84,3026
+401,Pakistan,39,Male,Medium (2-10 acres),Rice,8022,Rain-fed,Primary,11,Local Market,166.58,15.01,9884
+402,Pakistan,69,Female,Small (<2 acres),Wheat,5256,Canal,College,20,Export,278.79,12.65,1724
+403,Bangladesh,19,Female,Large (>10 acres),Wheat,18962,Canal,Secondary,20,Export,192.84,10.07,1425
+404,Pakistan,43,Female,Medium (2-10 acres),Sugarcane,9804,Tube well,University,20,Regional Market,219.58,15.37,2175
+405,Pakistan,69,Female,Large (>10 acres),Wheat,13133,Tube well,University,34,Local Market,47.17,6.63,2641
+406,Sri Lanka,25,Female,Medium (2-10 acres),Tomato,11427,Drip,Primary,15,Local Market,51.93,3.57,8401
+407,Nepal,39,Female,Large (>10 acres),Cotton,6784,Drip,College,50,Export,81.29,10.6,3893
+408,Nepal,34,Male,Small (<2 acres),Cotton,17951,Rain-fed,No formal education,1,Regional Market,139.23,19.94,8542
+409,India,44,Male,Small (<2 acres),Sugarcane,17764,Sprinkler,No formal education,29,Regional Market,50.36,1.69,8381
+410,India,30,Male,Small (<2 acres),Tomato,8445,Tube well,Primary,34,Export,217.94,14.91,9541
+411,Bangladesh,58,Female,Large (>10 acres),Potato,1840,Drip,University,30,Local Market,234.53,11.83,8057
+412,Sri Lanka,23,Female,Medium (2-10 acres),Maize,11840,Sprinkler,University,26,Export,292.85,1.71,8351
+413,Nepal,56,Female,Medium (2-10 acres),Sugarcane,6852,Drip,Secondary,27,Regional Market,88.94,14.77,7095
+414,Nepal,58,Male,Large (>10 acres),Cotton,6208,Tube well,Primary,2,Export,262.58,19.06,6342
+415,India,54,Female,Small (<2 acres),Cotton,12432,Canal,No formal education,19,Regional Market,180.39,2.01,9052
+416,Nepal,38,Male,Small (<2 acres),Rice,8874,Drip,College,16,Local Market,184.94,7.12,6093
+417,India,54,Female,Small (<2 acres),Maize,623,Canal,University,27,Regional Market,211.11,5.53,2931
+418,Sri Lanka,22,Female,Small (<2 acres),Wheat,929,Rain-fed,College,2,Export,288.01,10.08,3304
+419,Sri Lanka,47,Female,Large (>10 acres),Wheat,14522,Sprinkler,Secondary,2,Regional Market,106.0,17.63,2456
+420,Sri Lanka,67,Male,Medium (2-10 acres),Tomato,16614,Sprinkler,No formal education,26,Local Market,81.56,15.32,6767
+421,Nepal,37,Male,Large (>10 acres),Tomato,14682,Rain-fed,Secondary,16,Export,160.78,11.26,8842
+422,India,56,Female,Small (<2 acres),Rice,18185,Canal,University,48,Regional Market,290.47,6.44,2961
+423,Nepal,49,Male,Medium (2-10 acres),Tomato,8962,Tube well,Primary,32,Export,185.93,9.77,7060
+424,Bangladesh,26,Male,Small (<2 acres),Sugarcane,6198,Drip,Primary,39,Export,63.37,11.16,9749
+425,Nepal,35,Female,Medium (2-10 acres),Maize,2327,Sprinkler,College,8,Export,192.62,5.87,5100
+426,Bangladesh,58,Male,Small (<2 acres),Potato,2120,Rain-fed,College,10,Local Market,148.23,18.64,9048
+427,Nepal,37,Female,Large (>10 acres),Maize,10981,Rain-fed,Secondary,1,Local Market,98.46,14.85,818
+428,Pakistan,31,Female,Small (<2 acres),Potato,8818,Sprinkler,University,34,Regional Market,65.71,9.03,824
+429,Pakistan,26,Male,Medium (2-10 acres),Rice,13036,Tube well,No formal education,11,Export,104.71,2.99,7933
+430,Pakistan,63,Female,Large (>10 acres),Cotton,4319,Drip,Primary,35,Export,280.96,9.42,4853
+431,Bangladesh,35,Male,Medium (2-10 acres),Potato,7384,Tube well,Secondary,42,Local Market,264.79,7.07,7105
+432,Sri Lanka,58,Male,Small (<2 acres),Cotton,18067,Canal,College,15,Export,28.45,2.04,3981
+433,India,45,Male,Medium (2-10 acres),Potato,2645,Rain-fed,College,35,Local Market,226.18,12.09,3191
+434,Nepal,36,Female,Large (>10 acres),Rice,18928,Canal,College,24,Export,197.16,13.83,6301
+435,Bangladesh,22,Female,Medium (2-10 acres),Cotton,18961,Rain-fed,University,26,Local Market,250.23,9.98,564
+436,Sri Lanka,32,Male,Large (>10 acres),Tomato,2487,Rain-fed,College,41,Export,133.85,14.31,4185
+437,Bangladesh,67,Female,Large (>10 acres),Maize,9239,Tube well,University,6,Regional Market,17.73,2.3,5659
+438,India,63,Male,Large (>10 acres),Rice,18452,Tube well,Secondary,11,Export,177.11,10.88,3636
+439,Sri Lanka,70,Male,Large (>10 acres),Tomato,2935,Sprinkler,University,40,Local Market,78.48,13.24,5295
+440,Nepal,59,Male,Small (<2 acres),Cotton,5328,Sprinkler,Primary,26,Local Market,160.45,0.7,9815
+441,Nepal,22,Male,Large (>10 acres),Maize,16911,Canal,University,15,Export,120.71,0.71,9017
+442,India,46,Female,Medium (2-10 acres),Maize,1884,Rain-fed,College,21,Local Market,200.48,19.62,5108
+443,Bangladesh,54,Male,Medium (2-10 acres),Tomato,2496,Drip,No formal education,38,Local Market,114.79,0.84,3024
+444,India,28,Female,Medium (2-10 acres),Rice,13995,Drip,No formal education,12,Local Market,143.99,9.06,7956
+445,Bangladesh,39,Male,Small (<2 acres),Sugarcane,17248,Canal,Secondary,41,Local Market,93.15,1.53,7852
+446,Sri Lanka,54,Female,Small (<2 acres),Tomato,18326,Rain-fed,College,22,Export,130.44,17.43,1857
+447,Nepal,27,Male,Large (>10 acres),Rice,18203,Canal,University,25,Export,220.81,16.98,7443
+448,Sri Lanka,57,Male,Medium (2-10 acres),Tomato,4906,Rain-fed,No formal education,24,Export,231.35,7.81,8205
+449,India,51,Female,Medium (2-10 acres),Tomato,5774,Canal,Primary,24,Regional Market,68.23,0.62,1434
+450,Sri Lanka,42,Female,Large (>10 acres),Sugarcane,10289,Canal,Primary,21,Local Market,198.01,13.5,3384
+451,Bangladesh,67,Male,Medium (2-10 acres),Wheat,16450,Tube well,Secondary,44,Regional Market,112.35,3.31,548
+452,Bangladesh,33,Male,Medium (2-10 acres),Cotton,11031,Tube well,Secondary,19,Local Market,181.1,2.18,4788
+453,Pakistan,40,Male,Small (<2 acres),Wheat,10883,Drip,Primary,14,Regional Market,25.37,15.34,4696
+454,Nepal,55,Male,Medium (2-10 acres),Rice,4679,Drip,Primary,7,Export,209.56,7.39,1846
+455,Bangladesh,64,Female,Small (<2 acres),Potato,12837,Canal,Secondary,23,Local Market,18.46,15.33,2352
+456,Bangladesh,49,Male,Small (<2 acres),Wheat,9937,Sprinkler,University,23,Export,69.16,11.22,9430
+457,Sri Lanka,29,Female,Large (>10 acres),Sugarcane,1553,Tube well,University,10,Regional Market,104.13,6.01,8258
+458,India,55,Female,Medium (2-10 acres),Wheat,1853,Rain-fed,University,15,Regional Market,166.67,18.74,6935
+459,Nepal,52,Male,Medium (2-10 acres),Wheat,13981,Sprinkler,Primary,30,Export,223.45,2.27,4236
+460,Nepal,61,Male,Small (<2 acres),Wheat,1335,Rain-fed,University,27,Regional Market,160.95,17.52,5897
+461,Nepal,70,Female,Small (<2 acres),Wheat,6361,Tube well,College,14,Regional Market,51.13,10.38,9232
+462,Pakistan,64,Female,Small (<2 acres),Rice,9896,Drip,Primary,40,Export,270.48,5.59,1057
+463,India,68,Female,Medium (2-10 acres),Sugarcane,16603,Canal,Primary,7,Regional Market,194.94,9.29,5591
+464,Bangladesh,34,Female,Small (<2 acres),Tomato,14229,Canal,College,20,Local Market,260.55,15.78,8094
+465,Pakistan,33,Male,Medium (2-10 acres),Sugarcane,7233,Canal,University,42,Regional Market,37.08,3.54,9025
+466,India,28,Male,Small (<2 acres),Potato,16468,Drip,University,50,Local Market,252.82,13.95,7325
+467,Nepal,46,Female,Large (>10 acres),Tomato,18102,Drip,University,35,Local Market,192.58,16.16,5449
+468,India,45,Female,Small (<2 acres),Tomato,4200,Canal,Secondary,12,Regional Market,231.02,16.7,6344
+469,India,26,Male,Small (<2 acres),Rice,16544,Tube well,College,42,Local Market,228.34,2.28,9335
+470,Bangladesh,26,Female,Medium (2-10 acres),Wheat,835,Rain-fed,No formal education,1,Export,243.2,11.7,3146
+471,Sri Lanka,58,Male,Large (>10 acres),Maize,16507,Sprinkler,Primary,29,Local Market,229.21,12.2,7897
+472,Nepal,18,Male,Small (<2 acres),Sugarcane,1327,Rain-fed,University,32,Local Market,220.8,10.74,7077
+473,Bangladesh,42,Female,Small (<2 acres),Potato,16584,Canal,No formal education,26,Local Market,271.64,5.28,1684
+474,India,21,Male,Large (>10 acres),Potato,3187,Canal,University,36,Regional Market,111.06,9.84,6657
+475,Sri Lanka,33,Male,Large (>10 acres),Cotton,17860,Canal,University,27,Local Market,205.02,19.49,8771
+476,Sri Lanka,29,Male,Small (<2 acres),Cotton,1361,Tube well,Secondary,7,Export,125.0,19.56,1797
+477,India,29,Male,Large (>10 acres),Cotton,14315,Drip,No formal education,41,Regional Market,295.37,7.29,8286
+478,Bangladesh,63,Male,Large (>10 acres),Wheat,19294,Drip,University,17,Local Market,272.47,11.91,6515
+479,Pakistan,39,Female,Medium (2-10 acres),Cotton,4942,Rain-fed,University,13,Regional Market,48.85,16.47,5576
+480,Pakistan,37,Male,Medium (2-10 acres),Maize,11757,Rain-fed,University,18,Export,205.82,15.06,8998
+481,Nepal,34,Female,Small (<2 acres),Potato,16026,Drip,No formal education,8,Export,126.47,5.73,4596
+482,Sri Lanka,21,Male,Medium (2-10 acres),Rice,5529,Sprinkler,College,49,Export,274.19,18.25,2170
+483,Nepal,18,Female,Large (>10 acres),Cotton,3397,Sprinkler,Primary,33,Regional Market,214.92,5.41,3906
+484,Sri Lanka,25,Male,Small (<2 acres),Cotton,6027,Canal,College,42,Export,99.93,1.53,8004
+485,Sri Lanka,53,Female,Large (>10 acres),Wheat,17509,Tube well,Secondary,2,Local Market,260.54,9.5,3743
+486,Nepal,33,Male,Medium (2-10 acres),Sugarcane,17605,Canal,Secondary,31,Export,188.46,5.64,7880
+487,Pakistan,35,Female,Small (<2 acres),Tomato,18745,Tube well,College,27,Export,155.16,7.77,9497
+488,Bangladesh,18,Female,Small (<2 acres),Maize,17597,Drip,University,9,Regional Market,292.08,17.45,1972
+489,India,51,Female,Small (<2 acres),Maize,13966,Canal,College,23,Export,33.85,16.62,3962
+490,Bangladesh,32,Female,Medium (2-10 acres),Tomato,11321,Rain-fed,University,22,Export,227.97,4.84,3944
+491,Sri Lanka,60,Female,Small (<2 acres),Maize,595,Tube well,Primary,35,Local Market,266.16,2.7,5204
+492,Nepal,30,Female,Large (>10 acres),Cotton,6838,Sprinkler,No formal education,19,Regional Market,59.45,1.61,2501
+493,Bangladesh,47,Male,Medium (2-10 acres),Rice,13437,Canal,College,22,Export,21.25,15.61,8932
+494,Nepal,48,Female,Medium (2-10 acres),Cotton,1669,Rain-fed,Secondary,12,Regional Market,140.97,12.96,7526
+495,Bangladesh,51,Female,Medium (2-10 acres),Maize,6635,Sprinkler,University,45,Export,296.1,5.46,4673
+496,Bangladesh,55,Female,Large (>10 acres),Cotton,14746,Rain-fed,College,12,Export,231.26,7.5,1839
+497,Bangladesh,29,Male,Large (>10 acres),Rice,617,Rain-fed,No formal education,50,Regional Market,208.61,14.37,1779
+498,Bangladesh,37,Female,Medium (2-10 acres),Tomato,5482,Sprinkler,No formal education,28,Export,150.37,5.22,1920
+499,India,57,Female,Small (<2 acres),Wheat,19123,Canal,Primary,23,Export,80.54,8.84,3796
+500,Nepal,28,Male,Small (<2 acres),Maize,9808,Sprinkler,Secondary,13,Local Market,128.34,14.43,8850
+501,India,19,Male,Small (<2 acres),Maize,852,Canal,College,7,Regional Market,100.6,19.9,8324
+502,Nepal,50,Male,Medium (2-10 acres),Rice,10924,Canal,University,7,Export,279.83,9.34,2353
+503,India,65,Female,Medium (2-10 acres),Rice,14504,Drip,No formal education,34,Export,22.9,7.91,1629
+504,Pakistan,56,Female,Medium (2-10 acres),Rice,9328,Tube well,No formal education,3,Local Market,202.39,12.74,5085
+505,Sri Lanka,38,Female,Small (<2 acres),Tomato,5004,Drip,No formal education,42,Local Market,123.93,3.77,7695
+506,Pakistan,29,Male,Small (<2 acres),Cotton,8218,Tube well,University,23,Local Market,137.63,0.94,6033
+507,Bangladesh,57,Female,Medium (2-10 acres),Maize,7779,Canal,College,38,Export,289.42,8.3,6975
+508,India,53,Female,Small (<2 acres),Maize,6807,Canal,University,37,Regional Market,67.11,4.42,5757
+509,Sri Lanka,45,Female,Small (<2 acres),Maize,18629,Drip,University,25,Local Market,174.93,12.37,5295
+510,Pakistan,67,Female,Large (>10 acres),Rice,13191,Canal,Secondary,11,Regional Market,272.6,3.49,9364
+511,Sri Lanka,24,Male,Medium (2-10 acres),Potato,14187,Canal,College,32,Local Market,206.61,15.44,9249
+512,Bangladesh,51,Male,Large (>10 acres),Cotton,1311,Tube well,Secondary,47,Local Market,273.47,8.94,885
+513,Sri Lanka,22,Male,Small (<2 acres),Tomato,3622,Sprinkler,Secondary,33,Regional Market,131.83,18.98,7338
+514,Pakistan,58,Female,Small (<2 acres),Wheat,8828,Rain-fed,University,8,Export,13.4,1.84,9443
+515,Nepal,40,Female,Small (<2 acres),Maize,10113,Drip,Secondary,34,Local Market,286.97,18.56,1922
+516,India,54,Male,Large (>10 acres),Wheat,15714,Tube well,College,24,Local Market,145.56,13.83,9500
+517,Nepal,40,Male,Large (>10 acres),Cotton,14803,Drip,Secondary,33,Local Market,91.6,1.28,6339
+518,Pakistan,32,Male,Large (>10 acres),Potato,888,Rain-fed,Secondary,40,Local Market,258.98,11.55,8506
+519,Sri Lanka,52,Male,Small (<2 acres),Sugarcane,8329,Drip,No formal education,29,Local Market,108.48,18.88,3316
+520,India,23,Female,Large (>10 acres),Sugarcane,7040,Sprinkler,Primary,48,Regional Market,50.17,7.15,7915
+521,Pakistan,32,Female,Large (>10 acres),Cotton,13271,Sprinkler,Secondary,14,Export,78.74,15.69,9370
+522,India,38,Male,Small (<2 acres),Potato,17506,Rain-fed,Secondary,26,Regional Market,92.05,11.16,8484
+523,Pakistan,38,Male,Medium (2-10 acres),Wheat,18261,Rain-fed,College,43,Export,91.33,3.5,1861
+524,Sri Lanka,47,Male,Medium (2-10 acres),Maize,13587,Canal,College,27,Local Market,18.89,16.66,9609
+525,Pakistan,61,Male,Medium (2-10 acres),Sugarcane,5464,Rain-fed,Secondary,41,Local Market,230.9,16.27,9062
+526,Sri Lanka,22,Female,Small (<2 acres),Rice,7739,Rain-fed,Primary,4,Local Market,129.74,13.89,3269
+527,Nepal,60,Male,Medium (2-10 acres),Cotton,19360,Tube well,College,29,Local Market,227.25,4.64,9407
+528,Sri Lanka,28,Male,Small (<2 acres),Potato,10334,Sprinkler,College,15,Local Market,245.34,13.12,2282
+529,India,19,Female,Large (>10 acres),Sugarcane,781,Tube well,University,44,Regional Market,179.62,11.91,9381
+530,Nepal,24,Female,Small (<2 acres),Wheat,11510,Drip,Secondary,36,Local Market,274.89,17.22,5889
+531,Nepal,42,Female,Large (>10 acres),Maize,3482,Sprinkler,Primary,8,Regional Market,291.15,9.9,3827
+532,Bangladesh,42,Female,Large (>10 acres),Maize,15207,Drip,College,15,Export,198.3,11.44,546
+533,Pakistan,48,Female,Large (>10 acres),Maize,7004,Sprinkler,Secondary,9,Regional Market,132.35,17.71,4321
+534,Sri Lanka,26,Male,Large (>10 acres),Rice,14490,Drip,University,26,Local Market,174.4,10.1,9705
+535,India,37,Male,Large (>10 acres),Wheat,15161,Canal,Primary,8,Regional Market,275.6,18.9,7670
+536,Bangladesh,40,Female,Large (>10 acres),Rice,18793,Tube well,Secondary,29,Local Market,146.21,2.42,9442
+537,Pakistan,30,Female,Large (>10 acres),Tomato,2466,Canal,College,30,Export,132.47,5.42,953
+538,Pakistan,60,Male,Small (<2 acres),Sugarcane,19919,Canal,No formal education,2,Local Market,205.01,7.44,8051
+539,Sri Lanka,67,Female,Small (<2 acres),Sugarcane,4937,Sprinkler,No formal education,10,Export,154.66,13.25,1019
+540,India,53,Male,Small (<2 acres),Wheat,8034,Tube well,No formal education,30,Regional Market,91.17,8.49,3876
+541,Sri Lanka,40,Male,Medium (2-10 acres),Maize,4433,Drip,College,16,Regional Market,130.41,8.08,6394
+542,Nepal,34,Male,Medium (2-10 acres),Tomato,15620,Sprinkler,University,29,Regional Market,273.88,4.27,3234
+543,Bangladesh,70,Male,Medium (2-10 acres),Rice,9410,Tube well,No formal education,50,Export,214.35,4.34,2490
+544,Bangladesh,47,Female,Small (<2 acres),Potato,9188,Sprinkler,Primary,6,Regional Market,210.17,17.9,1351
+545,Bangladesh,36,Female,Large (>10 acres),Maize,19185,Canal,University,28,Local Market,41.94,12.55,9529
+546,Sri Lanka,69,Female,Medium (2-10 acres),Sugarcane,9395,Drip,University,16,Regional Market,197.98,15.42,6615
+547,Nepal,55,Female,Small (<2 acres),Maize,11951,Rain-fed,Secondary,12,Local Market,271.17,4.95,4958
+548,Sri Lanka,43,Male,Medium (2-10 acres),Rice,7065,Rain-fed,University,12,Export,62.85,19.33,9911
+549,Bangladesh,43,Male,Large (>10 acres),Tomato,10437,Rain-fed,College,33,Local Market,188.84,12.44,8293
+550,Nepal,19,Male,Small (<2 acres),Sugarcane,16285,Rain-fed,Primary,45,Export,273.63,14.78,9884
+551,India,46,Male,Small (<2 acres),Wheat,11987,Canal,Secondary,4,Local Market,35.85,16.7,3374
+552,India,54,Male,Small (<2 acres),Tomato,893,Drip,No formal education,11,Local Market,277.5,4.11,8386
+553,Pakistan,66,Female,Medium (2-10 acres),Rice,2254,Tube well,University,27,Export,156.04,9.83,4036
+554,India,51,Male,Large (>10 acres),Cotton,6946,Rain-fed,College,5,Regional Market,159.38,9.5,7338
+555,Nepal,41,Female,Small (<2 acres),Maize,14587,Canal,No formal education,17,Local Market,239.18,12.53,3011
+556,Nepal,54,Female,Small (<2 acres),Cotton,5662,Sprinkler,No formal education,38,Export,11.72,15.8,2326
+557,Pakistan,26,Female,Medium (2-10 acres),Cotton,9509,Rain-fed,College,15,Regional Market,258.59,12.49,9594
+558,Pakistan,23,Female,Small (<2 acres),Sugarcane,3059,Tube well,Primary,8,Regional Market,275.46,9.97,1347
+559,Bangladesh,40,Female,Large (>10 acres),Cotton,8198,Rain-fed,Secondary,2,Local Market,43.06,7.31,6237
+560,India,68,Male,Medium (2-10 acres),Cotton,5729,Tube well,Primary,49,Export,74.64,18.13,1008
+561,Bangladesh,52,Male,Large (>10 acres),Wheat,7336,Tube well,Secondary,31,Local Market,118.51,8.58,1309
+562,Sri Lanka,32,Male,Small (<2 acres),Wheat,18187,Tube well,Primary,4,Export,112.45,7.36,5240
+563,Pakistan,67,Male,Large (>10 acres),Wheat,715,Canal,College,1,Local Market,226.03,14.46,1266
+564,Sri Lanka,19,Male,Medium (2-10 acres),Cotton,9958,Rain-fed,Primary,38,Local Market,214.04,14.5,8625
+565,Bangladesh,35,Female,Small (<2 acres),Wheat,6674,Canal,Secondary,35,Local Market,231.47,4.65,7570
+566,Pakistan,36,Female,Large (>10 acres),Cotton,3936,Drip,College,32,Regional Market,199.13,3.4,8184
+567,Bangladesh,58,Male,Large (>10 acres),Wheat,11310,Rain-fed,No formal education,12,Export,264.91,9.34,8722
+568,Pakistan,53,Female,Small (<2 acres),Wheat,9836,Tube well,Secondary,22,Regional Market,143.62,12.79,3093
+569,Sri Lanka,31,Male,Medium (2-10 acres),Rice,5551,Canal,University,35,Regional Market,222.31,2.54,5954
+570,Bangladesh,43,Male,Medium (2-10 acres),Maize,19534,Sprinkler,College,16,Regional Market,197.12,11.3,5876
+571,India,28,Male,Large (>10 acres),Wheat,6541,Sprinkler,University,5,Regional Market,58.91,16.81,5978
+572,Bangladesh,56,Female,Medium (2-10 acres),Rice,14102,Drip,College,25,Local Market,81.74,4.21,7453
+573,India,35,Male,Large (>10 acres),Maize,18795,Tube well,University,17,Regional Market,214.54,6.66,8283
+574,Pakistan,63,Male,Medium (2-10 acres),Cotton,6743,Tube well,University,43,Local Market,217.71,2.45,5152
+575,Sri Lanka,27,Female,Large (>10 acres),Cotton,15663,Tube well,College,20,Local Market,244.23,16.22,4767
+576,Sri Lanka,41,Male,Large (>10 acres),Sugarcane,7200,Sprinkler,University,15,Regional Market,82.11,16.41,1628
+577,India,54,Female,Medium (2-10 acres),Rice,6416,Canal,Secondary,50,Export,235.13,14.01,3355
+578,Sri Lanka,38,Female,Large (>10 acres),Maize,11132,Sprinkler,Primary,48,Regional Market,31.85,1.15,714
+579,Sri Lanka,23,Female,Medium (2-10 acres),Wheat,3585,Tube well,College,10,Export,223.99,3.61,838
+580,Pakistan,53,Female,Small (<2 acres),Cotton,4624,Tube well,Secondary,22,Export,145.82,10.37,4119
+581,India,34,Female,Medium (2-10 acres),Sugarcane,8202,Drip,College,41,Regional Market,24.31,3.46,7397
+582,Sri Lanka,42,Female,Medium (2-10 acres),Rice,13783,Rain-fed,University,24,Export,137.33,18.92,708
+583,Nepal,43,Male,Large (>10 acres),Wheat,6309,Drip,Primary,33,Local Market,187.3,7.02,2717
+584,Bangladesh,51,Female,Large (>10 acres),Potato,3304,Canal,No formal education,41,Local Market,143.12,19.15,1599
+585,Sri Lanka,36,Male,Large (>10 acres),Maize,16270,Rain-fed,University,3,Export,240.44,19.74,2113
+586,Pakistan,39,Male,Large (>10 acres),Potato,17692,Rain-fed,College,22,Export,116.59,3.88,6879
+587,Nepal,57,Female,Medium (2-10 acres),Cotton,18912,Sprinkler,Primary,31,Export,13.99,11.74,5508
+588,Pakistan,25,Female,Large (>10 acres),Wheat,17229,Canal,No formal education,35,Local Market,277.99,19.79,6159
+589,Nepal,67,Male,Small (<2 acres),Cotton,3423,Sprinkler,College,23,Regional Market,226.93,15.33,2466
+590,India,70,Male,Medium (2-10 acres),Cotton,4470,Sprinkler,Secondary,33,Export,246.76,19.57,4521
+591,Sri Lanka,42,Male,Large (>10 acres),Sugarcane,3178,Sprinkler,University,22,Local Market,155.62,15.03,5290
+592,Nepal,26,Female,Large (>10 acres),Sugarcane,4097,Drip,No formal education,35,Local Market,239.12,14.03,4458
+593,Bangladesh,27,Female,Medium (2-10 acres),Maize,14617,Tube well,Secondary,42,Regional Market,31.55,5.44,4044
+594,Bangladesh,22,Male,Medium (2-10 acres),Rice,15891,Rain-fed,No formal education,9,Local Market,259.14,14.4,6902
+595,India,41,Male,Small (<2 acres),Rice,6156,Tube well,Secondary,19,Regional Market,292.74,10.2,1541
+596,Sri Lanka,57,Male,Small (<2 acres),Cotton,1198,Drip,College,2,Local Market,132.87,6.1,6308
+597,Bangladesh,24,Female,Medium (2-10 acres),Rice,16444,Drip,Secondary,46,Regional Market,30.8,2.42,9009
+598,India,42,Female,Small (<2 acres),Sugarcane,13275,Rain-fed,No formal education,31,Local Market,260.04,1.59,4666
+599,India,41,Female,Medium (2-10 acres),Potato,17747,Tube well,No formal education,45,Local Market,220.56,1.13,1017
+600,Sri Lanka,63,Male,Large (>10 acres),Rice,3690,Sprinkler,Secondary,49,Local Market,48.43,6.69,1266
+601,Bangladesh,33,Female,Large (>10 acres),Tomato,5856,Tube well,University,19,Export,204.51,10.83,885
+602,Pakistan,64,Male,Large (>10 acres),Tomato,7807,Sprinkler,Secondary,36,Export,242.19,17.43,2494
+603,Bangladesh,44,Female,Medium (2-10 acres),Cotton,12157,Sprinkler,No formal education,17,Regional Market,271.71,5.75,7234
+604,India,30,Male,Large (>10 acres),Maize,17112,Tube well,University,50,Local Market,204.24,1.62,9827
+605,Sri Lanka,23,Female,Large (>10 acres),Maize,8228,Tube well,Secondary,1,Regional Market,136.47,9.98,551
+606,Pakistan,25,Female,Large (>10 acres),Potato,17904,Canal,Secondary,47,Regional Market,227.43,10.27,788
+607,Sri Lanka,64,Female,Medium (2-10 acres),Rice,1192,Tube well,University,39,Export,179.08,4.18,6469
+608,Sri Lanka,28,Male,Small (<2 acres),Sugarcane,17592,Sprinkler,College,27,Regional Market,88.69,14.29,6647
+609,India,69,Male,Large (>10 acres),Sugarcane,948,Drip,Secondary,30,Local Market,80.52,6.98,7632
+610,Nepal,67,Male,Large (>10 acres),Tomato,10183,Rain-fed,University,19,Regional Market,207.3,19.06,5679
+611,India,37,Male,Small (<2 acres),Cotton,17641,Tube well,Primary,43,Regional Market,248.2,19.84,6799
+612,Nepal,43,Male,Large (>10 acres),Potato,4741,Drip,University,14,Export,218.37,1.46,2864
+613,Sri Lanka,67,Male,Large (>10 acres),Sugarcane,15839,Sprinkler,Primary,46,Regional Market,84.86,19.56,6723
+614,Nepal,67,Male,Medium (2-10 acres),Maize,11979,Drip,College,15,Local Market,76.65,6.47,4565
+615,Sri Lanka,69,Male,Small (<2 acres),Wheat,3159,Drip,Secondary,43,Local Market,183.66,0.98,6911
+616,India,35,Male,Large (>10 acres),Maize,7453,Drip,Primary,2,Regional Market,266.05,14.85,1693
+617,Nepal,36,Female,Large (>10 acres),Maize,10953,Canal,University,12,Local Market,44.7,2.44,2401
+618,Nepal,63,Male,Small (<2 acres),Tomato,6875,Rain-fed,Secondary,26,Regional Market,171.06,19.72,2897
+619,Sri Lanka,52,Male,Large (>10 acres),Sugarcane,4524,Canal,College,44,Local Market,159.29,9.15,4414
+620,Nepal,64,Female,Medium (2-10 acres),Tomato,12049,Canal,College,25,Export,71.05,1.65,8456
+621,Sri Lanka,46,Female,Small (<2 acres),Cotton,12017,Tube well,Primary,14,Regional Market,275.9,17.46,2925
+622,India,46,Male,Medium (2-10 acres),Rice,6429,Tube well,College,25,Local Market,289.05,1.78,6519
+623,Nepal,49,Female,Medium (2-10 acres),Potato,8944,Rain-fed,Primary,29,Local Market,175.87,6.79,7748
+624,Sri Lanka,67,Female,Large (>10 acres),Sugarcane,18384,Rain-fed,No formal education,12,Local Market,119.08,4.4,9603
+625,Pakistan,29,Female,Small (<2 acres),Wheat,8278,Drip,No formal education,35,Local Market,130.94,14.98,9347
+626,Bangladesh,22,Female,Large (>10 acres),Rice,13771,Sprinkler,No formal education,38,Local Market,54.61,4.63,4234
+627,Bangladesh,66,Male,Small (<2 acres),Maize,7088,Rain-fed,Primary,46,Local Market,55.69,6.51,7554
+628,Pakistan,26,Male,Small (<2 acres),Wheat,5890,Sprinkler,University,40,Regional Market,12.04,18.43,8530
+629,India,47,Male,Small (<2 acres),Wheat,13634,Tube well,No formal education,29,Local Market,14.58,9.52,6207
+630,Bangladesh,36,Male,Medium (2-10 acres),Sugarcane,7088,Drip,Primary,22,Export,258.93,9.81,9781
+631,Nepal,50,Male,Small (<2 acres),Tomato,3830,Sprinkler,University,31,Local Market,287.16,13.0,1026
+632,Bangladesh,33,Male,Medium (2-10 acres),Cotton,9414,Rain-fed,No formal education,1,Regional Market,98.66,4.96,9347
+633,Nepal,18,Female,Medium (2-10 acres),Sugarcane,5273,Drip,University,43,Export,184.76,15.12,4264
+634,Sri Lanka,55,Male,Small (<2 acres),Potato,14255,Rain-fed,Secondary,35,Regional Market,129.77,2.27,1850
+635,Bangladesh,44,Male,Large (>10 acres),Potato,2335,Drip,No formal education,27,Regional Market,24.81,12.2,8396
+636,Nepal,25,Female,Large (>10 acres),Wheat,5455,Tube well,Secondary,12,Regional Market,30.98,12.09,9774
+637,India,60,Female,Small (<2 acres),Maize,19903,Rain-fed,University,43,Export,200.05,8.89,6101
+638,Nepal,64,Male,Large (>10 acres),Rice,17246,Sprinkler,Primary,19,Export,94.97,3.79,1821
+639,Sri Lanka,21,Male,Large (>10 acres),Wheat,19957,Drip,University,50,Regional Market,296.63,16.98,4443
+640,Bangladesh,18,Female,Small (<2 acres),Sugarcane,13610,Drip,Secondary,50,Local Market,243.68,17.37,7938
+641,Nepal,55,Male,Small (<2 acres),Sugarcane,4261,Canal,University,24,Local Market,66.02,17.48,9625
+642,India,45,Male,Medium (2-10 acres),Sugarcane,3952,Sprinkler,College,3,Local Market,54.92,16.33,4137
+643,Nepal,47,Male,Large (>10 acres),Maize,16056,Sprinkler,University,39,Local Market,230.05,17.03,4435
+644,Nepal,25,Male,Large (>10 acres),Potato,2293,Drip,University,44,Regional Market,128.34,2.41,1381
+645,Bangladesh,49,Female,Large (>10 acres),Tomato,10021,Canal,College,25,Regional Market,81.95,5.81,5925
+646,Pakistan,39,Male,Large (>10 acres),Maize,9389,Canal,Secondary,49,Regional Market,164.48,18.32,1009
+647,Pakistan,23,Female,Medium (2-10 acres),Rice,3807,Drip,No formal education,35,Local Market,71.59,12.14,8519
+648,Bangladesh,62,Male,Medium (2-10 acres),Wheat,4338,Canal,University,34,Local Market,257.44,15.22,3305
+649,Bangladesh,42,Male,Small (<2 acres),Potato,4821,Canal,No formal education,21,Regional Market,215.44,12.84,9716
+650,India,69,Female,Small (<2 acres),Cotton,1810,Sprinkler,College,15,Local Market,61.07,8.08,1471
+651,Pakistan,42,Female,Medium (2-10 acres),Tomato,7592,Tube well,No formal education,29,Export,132.53,0.75,1335
+652,Bangladesh,58,Female,Large (>10 acres),Rice,19934,Canal,University,2,Local Market,84.7,7.21,1108
+653,Pakistan,67,Female,Large (>10 acres),Maize,1447,Canal,Secondary,24,Regional Market,110.43,18.29,543
+654,Bangladesh,59,Male,Small (<2 acres),Potato,10594,Rain-fed,Secondary,5,Regional Market,149.18,6.57,6068
+655,Sri Lanka,27,Male,Large (>10 acres),Wheat,17902,Rain-fed,Secondary,6,Regional Market,157.87,0.83,2591
+656,Pakistan,45,Male,Medium (2-10 acres),Sugarcane,13231,Rain-fed,Primary,47,Regional Market,50.2,4.41,4342
+657,Sri Lanka,54,Female,Large (>10 acres),Sugarcane,910,Sprinkler,University,18,Regional Market,36.74,17.24,6361
+658,Sri Lanka,67,Female,Large (>10 acres),Rice,8116,Sprinkler,College,20,Export,209.78,14.76,1515
+659,Pakistan,65,Male,Medium (2-10 acres),Potato,2737,Sprinkler,College,5,Export,85.29,10.7,5214
+660,Sri Lanka,60,Female,Medium (2-10 acres),Potato,18951,Canal,No formal education,16,Local Market,46.06,8.79,3001
+661,Nepal,20,Male,Medium (2-10 acres),Sugarcane,11072,Sprinkler,Secondary,1,Local Market,107.25,14.6,734
+662,Nepal,34,Male,Medium (2-10 acres),Wheat,17667,Canal,Primary,39,Export,72.21,16.37,3655
+663,India,69,Female,Medium (2-10 acres),Sugarcane,16560,Rain-fed,Secondary,5,Local Market,109.43,9.19,4204
+664,India,57,Female,Small (<2 acres),Rice,17371,Drip,Secondary,23,Regional Market,261.34,16.92,8383
+665,Bangladesh,48,Male,Large (>10 acres),Potato,14544,Drip,Secondary,35,Local Market,106.74,6.94,3604
+666,India,28,Female,Large (>10 acres),Maize,19468,Drip,College,24,Export,243.46,12.25,7252
+667,Bangladesh,65,Male,Large (>10 acres),Maize,3050,Canal,Primary,21,Export,32.4,17.65,3504
+668,Pakistan,58,Male,Small (<2 acres),Tomato,7346,Canal,College,1,Regional Market,278.65,18.99,2752
+669,Sri Lanka,38,Female,Small (<2 acres),Rice,5626,Tube well,Primary,34,Regional Market,295.65,10.95,6708
+670,India,38,Male,Medium (2-10 acres),Wheat,5335,Tube well,College,1,Export,36.13,10.69,7047
+671,Nepal,28,Female,Small (<2 acres),Cotton,9154,Rain-fed,College,16,Regional Market,16.28,9.53,747
+672,India,35,Female,Small (<2 acres),Potato,2225,Tube well,Primary,20,Regional Market,287.72,14.73,8194
+673,India,39,Female,Small (<2 acres),Cotton,4933,Rain-fed,College,16,Local Market,226.24,10.68,9979
+674,India,43,Female,Medium (2-10 acres),Maize,18150,Drip,Primary,45,Export,218.12,4.21,2083
+675,Bangladesh,34,Female,Small (<2 acres),Cotton,5935,Sprinkler,University,33,Export,139.59,18.76,2967
+676,Sri Lanka,52,Female,Medium (2-10 acres),Sugarcane,6741,Drip,No formal education,26,Regional Market,197.43,2.44,9814
+677,India,39,Male,Large (>10 acres),Cotton,13711,Canal,No formal education,11,Local Market,299.69,9.99,9423
+678,Nepal,29,Male,Small (<2 acres),Wheat,17859,Tube well,Primary,2,Local Market,65.04,16.63,7171
+679,Nepal,69,Female,Large (>10 acres),Potato,7686,Sprinkler,Primary,9,Local Market,37.31,17.32,4948
+680,Bangladesh,19,Male,Medium (2-10 acres),Cotton,3308,Rain-fed,College,30,Regional Market,30.44,5.21,2965
+681,Pakistan,68,Female,Medium (2-10 acres),Sugarcane,4891,Canal,Primary,38,Export,132.95,16.42,3434
+682,Sri Lanka,44,Female,Large (>10 acres),Rice,12019,Canal,University,18,Local Market,240.19,2.72,908
+683,Bangladesh,30,Female,Large (>10 acres),Tomato,3530,Sprinkler,University,3,Local Market,55.67,14.14,1346
+684,Sri Lanka,51,Female,Small (<2 acres),Wheat,3221,Tube well,College,48,Local Market,184.41,2.54,7651
+685,Sri Lanka,58,Male,Large (>10 acres),Cotton,573,Sprinkler,University,48,Export,223.34,13.27,1130
+686,Bangladesh,54,Female,Small (<2 acres),Sugarcane,4209,Rain-fed,No formal education,18,Export,271.63,12.83,4269
+687,Bangladesh,55,Female,Small (<2 acres),Potato,1617,Sprinkler,College,24,Local Market,146.04,4.44,7384
+688,Pakistan,49,Female,Large (>10 acres),Sugarcane,16531,Tube well,No formal education,38,Export,290.26,9.4,3958
+689,Sri Lanka,56,Female,Large (>10 acres),Sugarcane,10345,Sprinkler,Secondary,32,Regional Market,60.69,18.39,9171
+690,Pakistan,51,Male,Large (>10 acres),Maize,768,Rain-fed,Secondary,38,Local Market,178.65,10.56,2948
+691,Nepal,61,Female,Small (<2 acres),Potato,5999,Rain-fed,University,32,Export,23.6,14.37,1842
+692,Pakistan,28,Female,Large (>10 acres),Maize,13272,Sprinkler,College,48,Local Market,34.62,1.14,5467
+693,Sri Lanka,65,Male,Small (<2 acres),Maize,14718,Sprinkler,University,4,Regional Market,251.5,13.64,4253
+694,Pakistan,20,Male,Small (<2 acres),Potato,11305,Tube well,University,33,Local Market,240.38,2.15,6308
+695,Bangladesh,41,Male,Small (<2 acres),Cotton,9694,Sprinkler,No formal education,31,Export,45.32,4.23,1789
+696,Sri Lanka,25,Male,Medium (2-10 acres),Wheat,7447,Tube well,Secondary,8,Local Market,70.9,9.74,2119
+697,India,38,Male,Large (>10 acres),Maize,15561,Rain-fed,College,29,Export,178.62,11.83,9834
+698,Nepal,32,Female,Small (<2 acres),Cotton,9858,Drip,University,19,Regional Market,51.64,2.48,9340
+699,Bangladesh,68,Male,Large (>10 acres),Maize,13856,Sprinkler,Secondary,13,Local Market,89.8,9.45,8452
+700,Sri Lanka,66,Female,Large (>10 acres),Cotton,14952,Canal,University,37,Local Market,49.44,16.42,2087
+701,India,60,Female,Large (>10 acres),Potato,4863,Tube well,University,20,Regional Market,220.99,8.51,8204
+702,Pakistan,29,Female,Large (>10 acres),Cotton,13884,Sprinkler,Secondary,38,Export,50.62,2.87,6932
+703,Sri Lanka,42,Male,Large (>10 acres),Potato,14193,Drip,Secondary,12,Local Market,68.19,2.83,5388
+704,Nepal,41,Male,Large (>10 acres),Potato,4533,Drip,College,27,Export,242.87,5.39,5627
+705,Sri Lanka,34,Male,Small (<2 acres),Tomato,5185,Drip,No formal education,6,Regional Market,116.54,2.1,5756
+706,Sri Lanka,58,Male,Medium (2-10 acres),Maize,2044,Canal,Primary,47,Local Market,183.31,4.28,1767
+707,Sri Lanka,36,Male,Medium (2-10 acres),Tomato,11331,Canal,Primary,36,Export,229.52,9.18,4890
+708,India,27,Male,Small (<2 acres),Maize,6340,Tube well,University,31,Export,202.07,5.71,2724
+709,India,56,Male,Medium (2-10 acres),Tomato,9289,Canal,University,22,Regional Market,237.48,9.66,6164
+710,Bangladesh,40,Male,Large (>10 acres),Tomato,9600,Rain-fed,College,17,Export,32.02,4.3,9123
+711,Pakistan,20,Female,Large (>10 acres),Wheat,8673,Sprinkler,University,29,Export,288.53,2.49,3679
+712,Pakistan,27,Female,Small (<2 acres),Sugarcane,15083,Canal,Primary,26,Regional Market,23.28,16.35,2176
+713,Nepal,63,Male,Small (<2 acres),Rice,3401,Drip,College,3,Local Market,22.79,19.35,6475
+714,Sri Lanka,58,Female,Large (>10 acres),Potato,14070,Sprinkler,College,5,Regional Market,163.13,5.51,3352
+715,Bangladesh,30,Female,Small (<2 acres),Wheat,17649,Rain-fed,Primary,31,Regional Market,289.18,17.38,2227
+716,Pakistan,60,Female,Medium (2-10 acres),Cotton,3782,Rain-fed,Secondary,1,Regional Market,38.2,2.84,9715
+717,Pakistan,44,Female,Medium (2-10 acres),Tomato,6013,Rain-fed,Secondary,9,Export,39.11,19.72,9080
+718,India,51,Male,Small (<2 acres),Wheat,8127,Sprinkler,No formal education,19,Local Market,20.25,17.27,4275
+719,Nepal,51,Female,Large (>10 acres),Wheat,8386,Rain-fed,Primary,8,Export,208.21,19.25,3825
+720,Pakistan,65,Female,Small (<2 acres),Rice,5006,Canal,College,49,Export,125.58,8.86,1400
+721,Sri Lanka,66,Male,Medium (2-10 acres),Maize,19270,Sprinkler,Secondary,35,Local Market,18.41,7.12,2907
+722,India,52,Female,Large (>10 acres),Rice,19792,Tube well,Primary,23,Local Market,75.46,17.36,3356
+723,India,46,Female,Medium (2-10 acres),Maize,9706,Canal,Secondary,33,Regional Market,227.12,7.68,2528
+724,Nepal,32,Male,Large (>10 acres),Maize,12599,Tube well,Primary,7,Local Market,54.76,4.05,2143
+725,Pakistan,36,Female,Small (<2 acres),Maize,11847,Drip,No formal education,48,Regional Market,258.74,7.37,1461
+726,Bangladesh,52,Male,Medium (2-10 acres),Rice,17417,Rain-fed,University,38,Local Market,297.6,14.81,4672
+727,Bangladesh,54,Male,Large (>10 acres),Rice,13535,Rain-fed,University,6,Regional Market,202.48,6.02,4074
+728,Bangladesh,38,Female,Large (>10 acres),Potato,18817,Rain-fed,Secondary,12,Regional Market,139.22,10.71,8397
+729,Sri Lanka,18,Male,Large (>10 acres),Sugarcane,15905,Canal,Secondary,40,Regional Market,36.09,0.74,7378
+730,India,27,Male,Medium (2-10 acres),Potato,11922,Tube well,University,4,Regional Market,238.86,18.15,5465
+731,Nepal,69,Female,Medium (2-10 acres),Wheat,17883,Tube well,Primary,22,Local Market,273.81,3.16,4261
+732,Sri Lanka,32,Female,Medium (2-10 acres),Sugarcane,1731,Tube well,University,10,Regional Market,198.23,16.47,2431
+733,Bangladesh,28,Female,Large (>10 acres),Wheat,9483,Canal,Secondary,35,Regional Market,11.58,8.36,1389
+734,Nepal,18,Female,Small (<2 acres),Maize,14971,Rain-fed,University,41,Regional Market,152.68,4.6,5653
+735,Bangladesh,55,Male,Large (>10 acres),Potato,13009,Canal,Secondary,36,Local Market,161.11,15.58,9392
+736,Bangladesh,46,Female,Medium (2-10 acres),Tomato,17564,Rain-fed,University,15,Regional Market,24.18,4.97,7834
+737,Pakistan,57,Female,Large (>10 acres),Sugarcane,19040,Canal,No formal education,39,Regional Market,270.85,16.76,9849
+738,India,44,Female,Medium (2-10 acres),Tomato,3646,Rain-fed,Secondary,29,Regional Market,241.09,18.47,4824
+739,Pakistan,68,Male,Medium (2-10 acres),Cotton,17483,Canal,Primary,6,Regional Market,296.88,11.09,6219
+740,Pakistan,31,Female,Small (<2 acres),Tomato,15286,Drip,Primary,2,Export,189.31,5.94,7139
+741,Bangladesh,57,Female,Large (>10 acres),Wheat,3882,Canal,No formal education,27,Export,245.85,9.19,4393
+742,India,44,Female,Small (<2 acres),Potato,16591,Canal,No formal education,38,Regional Market,246.75,15.59,2596
+743,Pakistan,24,Female,Medium (2-10 acres),Rice,15666,Drip,Secondary,28,Local Market,165.58,11.23,6109
+744,Bangladesh,48,Male,Medium (2-10 acres),Wheat,9125,Tube well,Primary,47,Export,28.01,19.02,9730
+745,India,47,Male,Large (>10 acres),Tomato,1991,Canal,College,2,Local Market,135.41,3.47,7126
+746,Pakistan,47,Male,Medium (2-10 acres),Wheat,19002,Canal,No formal education,27,Local Market,259.34,10.15,9836
+747,India,45,Male,Large (>10 acres),Tomato,1127,Drip,University,31,Export,68.45,8.36,6546
+748,Nepal,22,Female,Large (>10 acres),Potato,2594,Sprinkler,No formal education,22,Local Market,16.57,16.81,3705
+749,India,19,Male,Large (>10 acres),Maize,15687,Tube well,Primary,19,Local Market,33.28,17.22,8537
+750,Sri Lanka,37,Female,Large (>10 acres),Tomato,19513,Canal,College,25,Local Market,149.4,6.12,9626
+751,Nepal,31,Male,Large (>10 acres),Rice,3856,Canal,Primary,19,Local Market,125.69,15.87,7980
+752,Sri Lanka,28,Female,Large (>10 acres),Sugarcane,5761,Sprinkler,Primary,16,Local Market,46.61,13.66,1906
+753,Nepal,62,Male,Large (>10 acres),Sugarcane,7335,Drip,Primary,32,Regional Market,208.72,1.28,7246
+754,Bangladesh,40,Male,Medium (2-10 acres),Tomato,19875,Rain-fed,Primary,5,Export,116.19,8.31,2695
+755,Bangladesh,26,Female,Large (>10 acres),Sugarcane,16171,Drip,University,36,Export,289.79,13.13,742
+756,Nepal,20,Female,Small (<2 acres),Maize,17802,Drip,Secondary,6,Local Market,104.77,1.34,1595
+757,Sri Lanka,65,Female,Small (<2 acres),Cotton,17367,Drip,Primary,36,Regional Market,122.86,12.23,6806
+758,India,59,Female,Small (<2 acres),Sugarcane,1551,Rain-fed,University,20,Local Market,263.29,14.66,4489
+759,Bangladesh,34,Female,Large (>10 acres),Potato,3362,Canal,University,31,Local Market,281.74,11.06,8970
+760,Sri Lanka,26,Male,Medium (2-10 acres),Wheat,12826,Sprinkler,Primary,30,Export,51.46,7.54,1771
+761,Sri Lanka,49,Male,Large (>10 acres),Tomato,9208,Tube well,Secondary,1,Regional Market,76.76,6.39,8020
+762,India,37,Female,Medium (2-10 acres),Wheat,16941,Tube well,University,15,Regional Market,167.56,10.83,2217
+763,India,60,Male,Medium (2-10 acres),Wheat,625,Tube well,Secondary,49,Export,280.09,12.64,5545
+764,Pakistan,49,Male,Small (<2 acres),Sugarcane,3626,Sprinkler,Secondary,26,Regional Market,287.24,13.74,7460
+765,Bangladesh,34,Female,Large (>10 acres),Wheat,5197,Drip,Secondary,13,Local Market,262.97,12.66,1104
+766,Pakistan,41,Female,Small (<2 acres),Maize,10998,Canal,University,47,Export,126.84,6.17,2176
+767,Pakistan,25,Female,Large (>10 acres),Sugarcane,16374,Canal,Secondary,22,Regional Market,111.51,4.19,1330
+768,Sri Lanka,18,Female,Large (>10 acres),Cotton,3222,Drip,University,27,Regional Market,141.09,11.17,808
+769,Sri Lanka,54,Female,Large (>10 acres),Rice,11936,Drip,No formal education,25,Local Market,248.6,15.39,3100
+770,Bangladesh,34,Male,Large (>10 acres),Potato,11350,Rain-fed,Secondary,18,Local Market,256.33,17.43,8960
+771,Nepal,69,Male,Small (<2 acres),Rice,8950,Tube well,Primary,15,Local Market,270.29,5.88,6759
+772,Pakistan,32,Female,Large (>10 acres),Rice,5188,Tube well,University,27,Regional Market,263.96,13.13,6650
+773,Pakistan,55,Male,Small (<2 acres),Tomato,4309,Rain-fed,Secondary,14,Local Market,157.95,17.74,6395
+774,Nepal,35,Male,Medium (2-10 acres),Maize,16769,Canal,No formal education,27,Regional Market,228.79,9.11,1586
+775,India,55,Male,Small (<2 acres),Maize,5014,Tube well,No formal education,1,Export,146.11,11.64,1818
+776,Nepal,67,Female,Small (<2 acres),Sugarcane,13867,Canal,Primary,31,Export,256.12,17.84,4631
+777,Pakistan,60,Female,Large (>10 acres),Rice,7348,Tube well,Primary,1,Local Market,105.08,3.95,9544
+778,Bangladesh,59,Female,Small (<2 acres),Maize,11651,Drip,No formal education,2,Regional Market,120.85,14.24,6429
+779,Bangladesh,33,Female,Large (>10 acres),Potato,19247,Canal,University,30,Regional Market,163.43,18.16,4636
+780,Pakistan,38,Female,Large (>10 acres),Cotton,15813,Drip,Secondary,25,Local Market,173.44,19.0,6202
+781,Sri Lanka,35,Male,Medium (2-10 acres),Sugarcane,6289,Drip,University,38,Regional Market,146.09,3.47,5687
+782,Nepal,68,Male,Large (>10 acres),Sugarcane,550,Sprinkler,Primary,46,Export,110.73,8.3,6128
+783,Pakistan,40,Female,Small (<2 acres),Tomato,6099,Sprinkler,No formal education,32,Local Market,97.53,9.84,4715
+784,India,47,Male,Small (<2 acres),Wheat,3281,Drip,Primary,38,Export,189.35,6.37,1292
+785,India,67,Male,Small (<2 acres),Tomato,17694,Drip,No formal education,37,Export,22.09,7.09,6328
+786,Bangladesh,40,Female,Small (<2 acres),Tomato,18611,Canal,Secondary,40,Local Market,258.04,8.73,9391
+787,Nepal,32,Female,Medium (2-10 acres),Maize,9136,Sprinkler,College,37,Local Market,59.04,19.44,1782
+788,Pakistan,62,Female,Large (>10 acres),Sugarcane,10774,Tube well,No formal education,13,Regional Market,274.29,8.01,784
+789,Nepal,32,Male,Small (<2 acres),Sugarcane,7640,Tube well,Primary,21,Local Market,179.97,10.49,4397
+790,Sri Lanka,69,Female,Medium (2-10 acres),Tomato,5682,Rain-fed,Primary,14,Export,243.85,11.22,506
+791,Sri Lanka,20,Male,Large (>10 acres),Potato,12124,Tube well,No formal education,19,Export,162.95,11.94,6049
+792,India,64,Female,Large (>10 acres),Cotton,8197,Canal,Secondary,32,Export,166.96,18.21,6099
+793,Bangladesh,35,Female,Medium (2-10 acres),Maize,6971,Rain-fed,Secondary,5,Export,244.04,11.16,714
+794,Sri Lanka,64,Male,Large (>10 acres),Sugarcane,19235,Sprinkler,Secondary,36,Regional Market,286.1,3.03,9068
+795,Bangladesh,30,Female,Medium (2-10 acres),Cotton,12324,Sprinkler,University,7,Regional Market,167.94,16.28,953
+796,Bangladesh,19,Female,Large (>10 acres),Sugarcane,9718,Drip,University,48,Export,267.71,12.69,550
+797,Sri Lanka,36,Female,Large (>10 acres),Tomato,6079,Sprinkler,No formal education,45,Regional Market,239.8,3.58,1607
+798,Bangladesh,56,Male,Large (>10 acres),Maize,4021,Sprinkler,Secondary,25,Local Market,202.59,14.39,3641
+799,India,59,Male,Medium (2-10 acres),Sugarcane,16353,Canal,Secondary,27,Regional Market,70.15,17.33,5392
+800,Bangladesh,58,Male,Small (<2 acres),Rice,7275,Canal,University,7,Regional Market,144.38,15.66,859
+801,India,41,Female,Small (<2 acres),Wheat,11559,Drip,No formal education,15,Regional Market,104.56,17.21,9356
+802,Bangladesh,50,Male,Large (>10 acres),Sugarcane,17871,Drip,University,36,Local Market,54.91,13.39,3698
+803,India,21,Male,Small (<2 acres),Wheat,13807,Rain-fed,Secondary,8,Export,165.86,18.01,9282
+804,Bangladesh,70,Male,Medium (2-10 acres),Tomato,15827,Drip,No formal education,28,Export,173.44,18.9,1008
+805,Bangladesh,38,Male,Medium (2-10 acres),Potato,11965,Tube well,Secondary,12,Local Market,295.38,14.46,2318
+806,Bangladesh,37,Female,Medium (2-10 acres),Wheat,15796,Rain-fed,University,50,Local Market,291.15,13.67,2367
+807,India,27,Male,Small (<2 acres),Potato,15556,Rain-fed,College,47,Export,237.18,8.56,4233
+808,Sri Lanka,26,Male,Medium (2-10 acres),Rice,8001,Canal,College,37,Local Market,182.87,6.01,1202
+809,India,56,Male,Small (<2 acres),Wheat,4012,Tube well,No formal education,44,Export,91.74,8.83,6614
+810,Pakistan,57,Male,Large (>10 acres),Sugarcane,17939,Rain-fed,University,35,Export,100.24,18.55,626
+811,Pakistan,56,Female,Medium (2-10 acres),Tomato,4925,Sprinkler,University,30,Regional Market,255.12,10.17,9830
+812,Bangladesh,56,Male,Small (<2 acres),Cotton,12474,Sprinkler,Primary,28,Export,145.94,17.16,7260
+813,Sri Lanka,20,Male,Large (>10 acres),Sugarcane,3880,Drip,Secondary,35,Regional Market,187.57,12.76,3254
+814,Bangladesh,52,Male,Medium (2-10 acres),Sugarcane,10116,Tube well,Primary,26,Regional Market,271.2,19.51,2113
+815,India,27,Female,Small (<2 acres),Tomato,12026,Rain-fed,No formal education,6,Local Market,265.51,9.05,3199
+816,Pakistan,47,Male,Small (<2 acres),Potato,11087,Sprinkler,Primary,7,Local Market,263.08,12.34,5740
+817,India,64,Male,Medium (2-10 acres),Sugarcane,2597,Canal,Secondary,14,Local Market,283.87,14.37,3497
+818,Nepal,65,Female,Medium (2-10 acres),Rice,4512,Rain-fed,College,11,Local Market,251.4,9.57,9440
+819,Nepal,50,Male,Small (<2 acres),Potato,2443,Rain-fed,Primary,11,Export,224.8,11.04,4602
+820,India,52,Male,Medium (2-10 acres),Sugarcane,9240,Tube well,Primary,30,Local Market,171.52,16.43,2865
+821,India,35,Male,Medium (2-10 acres),Cotton,17491,Drip,Secondary,7,Export,282.05,16.34,6403
+822,Nepal,42,Male,Small (<2 acres),Wheat,10832,Rain-fed,College,26,Regional Market,244.16,5.48,3923
+823,Nepal,21,Male,Large (>10 acres),Tomato,7262,Drip,University,23,Local Market,177.89,15.3,5560
+824,Pakistan,56,Male,Medium (2-10 acres),Cotton,1532,Drip,University,39,Export,178.51,8.54,6864
+825,Bangladesh,59,Female,Small (<2 acres),Sugarcane,13916,Drip,No formal education,23,Export,151.87,19.42,2452
+826,India,26,Female,Small (<2 acres),Maize,8452,Sprinkler,Primary,44,Regional Market,184.34,18.28,3324
+827,Bangladesh,39,Female,Small (<2 acres),Maize,6335,Tube well,College,3,Local Market,52.57,18.84,6652
+828,Sri Lanka,69,Male,Medium (2-10 acres),Cotton,10430,Tube well,College,45,Local Market,180.57,14.63,3340
+829,India,23,Male,Large (>10 acres),Sugarcane,17454,Tube well,Secondary,7,Local Market,296.09,0.96,3129
+830,India,23,Female,Medium (2-10 acres),Tomato,8804,Tube well,No formal education,34,Local Market,67.8,2.15,5567
+831,Nepal,48,Female,Small (<2 acres),Rice,1130,Rain-fed,No formal education,3,Export,285.42,15.93,9854
+832,India,53,Male,Medium (2-10 acres),Wheat,6438,Canal,College,5,Export,24.39,11.2,6877
+833,Pakistan,19,Male,Large (>10 acres),Rice,5385,Tube well,College,20,Regional Market,287.95,11.3,2724
+834,Nepal,65,Female,Large (>10 acres),Wheat,18109,Sprinkler,University,10,Local Market,146.37,18.1,6709
+835,Pakistan,30,Female,Large (>10 acres),Sugarcane,5562,Rain-fed,Secondary,43,Export,81.75,18.26,8954
+836,India,18,Female,Medium (2-10 acres),Rice,6847,Tube well,Secondary,15,Regional Market,296.7,8.08,6969
+837,Pakistan,53,Female,Small (<2 acres),Maize,10888,Rain-fed,College,1,Local Market,243.92,8.55,8825
+838,Nepal,59,Female,Large (>10 acres),Maize,11105,Sprinkler,College,49,Local Market,41.51,0.92,3872
+839,Bangladesh,68,Male,Small (<2 acres),Rice,17820,Canal,College,39,Local Market,251.51,19.39,1789
+840,Sri Lanka,62,Female,Large (>10 acres),Sugarcane,9039,Canal,College,38,Export,58.4,3.5,8429
+841,Bangladesh,38,Male,Medium (2-10 acres),Cotton,9753,Tube well,College,24,Regional Market,105.79,15.95,6541
+842,Sri Lanka,59,Female,Large (>10 acres),Maize,18426,Rain-fed,College,50,Regional Market,173.87,11.43,3372
+843,Nepal,38,Male,Medium (2-10 acres),Potato,7186,Canal,Primary,35,Local Market,283.64,0.56,1044
+844,Bangladesh,64,Male,Large (>10 acres),Wheat,10749,Drip,University,47,Local Market,256.35,14.24,8950
+845,Pakistan,55,Female,Medium (2-10 acres),Cotton,11160,Drip,No formal education,12,Regional Market,217.65,12.46,3670
+846,Bangladesh,67,Female,Small (<2 acres),Potato,19001,Rain-fed,Secondary,16,Export,133.44,17.16,1075
+847,Pakistan,39,Male,Large (>10 acres),Maize,17736,Sprinkler,Secondary,14,Regional Market,238.43,14.32,8657
+848,India,57,Male,Small (<2 acres),Rice,15035,Drip,No formal education,29,Regional Market,33.22,15.36,1184
+849,Nepal,44,Female,Medium (2-10 acres),Cotton,8684,Drip,College,15,Export,148.74,6.14,4336
+850,Sri Lanka,69,Male,Medium (2-10 acres),Tomato,2708,Tube well,Secondary,3,Export,259.22,11.62,5874
+851,Nepal,43,Male,Medium (2-10 acres),Cotton,18423,Tube well,University,38,Regional Market,170.87,9.99,4589
+852,Pakistan,49,Male,Large (>10 acres),Maize,18885,Rain-fed,College,49,Local Market,245.28,6.85,921
+853,Pakistan,47,Female,Large (>10 acres),Potato,17811,Tube well,Secondary,2,Export,14.87,1.1,3878
+854,Nepal,53,Female,Large (>10 acres),Cotton,8973,Canal,Primary,36,Export,135.88,6.15,4170
+855,Pakistan,62,Female,Medium (2-10 acres),Potato,3672,Canal,No formal education,41,Regional Market,116.83,3.36,2412
+856,Pakistan,24,Female,Small (<2 acres),Potato,5640,Sprinkler,Secondary,43,Regional Market,254.64,16.2,2523
+857,Nepal,21,Female,Medium (2-10 acres),Wheat,1993,Drip,University,32,Local Market,210.26,3.35,4120
+858,Nepal,40,Female,Small (<2 acres),Cotton,2137,Drip,No formal education,3,Regional Market,206.95,17.4,4100
+859,Sri Lanka,34,Female,Medium (2-10 acres),Potato,5922,Rain-fed,University,39,Local Market,230.86,4.16,3581
+860,Sri Lanka,56,Male,Large (>10 acres),Wheat,18752,Tube well,Secondary,6,Local Market,227.04,6.4,990
+861,Sri Lanka,50,Male,Small (<2 acres),Wheat,11599,Rain-fed,University,28,Export,292.99,15.3,3574
+862,Sri Lanka,41,Female,Small (<2 acres),Sugarcane,3703,Rain-fed,No formal education,17,Export,183.85,6.24,7299
+863,Pakistan,61,Female,Small (<2 acres),Rice,604,Sprinkler,No formal education,10,Local Market,282.81,2.57,3192
+864,Pakistan,55,Male,Medium (2-10 acres),Wheat,7128,Drip,University,48,Export,137.6,15.28,1812
+865,India,32,Male,Small (<2 acres),Rice,7981,Canal,No formal education,34,Local Market,179.02,3.77,7750
+866,Pakistan,22,Male,Small (<2 acres),Wheat,12465,Drip,Secondary,14,Regional Market,255.73,10.36,5971
+867,Pakistan,64,Male,Small (<2 acres),Sugarcane,3462,Drip,Secondary,48,Regional Market,225.92,11.4,6680
+868,Sri Lanka,31,Male,Large (>10 acres),Wheat,11840,Drip,University,48,Export,89.5,15.08,6909
+869,Pakistan,25,Female,Large (>10 acres),Maize,12836,Tube well,Primary,34,Regional Market,28.39,17.59,6062
+870,Pakistan,45,Male,Large (>10 acres),Wheat,13993,Rain-fed,Secondary,35,Local Market,19.11,18.87,5157
+871,India,35,Female,Large (>10 acres),Sugarcane,5616,Sprinkler,Primary,46,Regional Market,140.22,5.26,4376
+872,Pakistan,34,Male,Small (<2 acres),Maize,5450,Drip,College,1,Regional Market,140.55,15.58,1929
+873,India,45,Female,Large (>10 acres),Maize,13345,Sprinkler,Secondary,50,Regional Market,31.75,13.04,8409
+874,Nepal,25,Male,Small (<2 acres),Wheat,8316,Tube well,Primary,49,Local Market,247.57,1.48,8866
+875,Sri Lanka,42,Male,Medium (2-10 acres),Cotton,10368,Rain-fed,University,18,Regional Market,127.0,3.79,1390
+876,Bangladesh,51,Female,Large (>10 acres),Maize,10898,Rain-fed,No formal education,3,Regional Market,113.09,13.94,2189
+877,Bangladesh,25,Male,Small (<2 acres),Potato,5423,Sprinkler,Secondary,20,Export,41.5,15.87,3915
+878,Bangladesh,33,Male,Small (<2 acres),Potato,9602,Rain-fed,College,5,Regional Market,141.28,10.36,8834
+879,Sri Lanka,69,Male,Large (>10 acres),Potato,5247,Rain-fed,Primary,31,Export,115.4,5.18,7634
+880,Bangladesh,20,Male,Small (<2 acres),Maize,10237,Rain-fed,Secondary,26,Export,117.95,16.87,4178
+881,India,28,Female,Large (>10 acres),Tomato,11607,Drip,College,45,Regional Market,255.68,9.83,1751
+882,Bangladesh,62,Male,Small (<2 acres),Tomato,18944,Canal,Primary,39,Export,89.22,6.42,4204
+883,India,22,Male,Large (>10 acres),Tomato,6781,Canal,No formal education,16,Regional Market,146.24,16.99,8364
+884,Nepal,33,Male,Small (<2 acres),Maize,14187,Sprinkler,Primary,48,Regional Market,135.9,11.06,3951
+885,Sri Lanka,59,Male,Small (<2 acres),Maize,12307,Rain-fed,Primary,49,Regional Market,232.61,17.53,5364
+886,Bangladesh,41,Male,Medium (2-10 acres),Wheat,16162,Canal,Primary,28,Local Market,281.7,19.92,5648
+887,Pakistan,53,Male,Medium (2-10 acres),Sugarcane,12652,Drip,No formal education,39,Export,190.43,6.17,1191
+888,Bangladesh,46,Female,Small (<2 acres),Sugarcane,8963,Canal,College,14,Local Market,182.38,4.3,5662
+889,Nepal,21,Female,Large (>10 acres),Tomato,11498,Rain-fed,Primary,16,Local Market,243.88,9.35,4456
+890,India,67,Female,Medium (2-10 acres),Maize,4673,Rain-fed,University,38,Local Market,234.71,0.74,2652
+891,India,38,Male,Large (>10 acres),Sugarcane,19131,Sprinkler,No formal education,29,Export,169.16,10.15,7315
+892,Sri Lanka,40,Male,Large (>10 acres),Cotton,3506,Sprinkler,College,46,Local Market,126.79,6.68,5437
+893,Pakistan,45,Male,Medium (2-10 acres),Potato,8855,Sprinkler,Primary,49,Export,236.44,16.59,3990
+894,India,58,Male,Large (>10 acres),Wheat,3984,Drip,Primary,24,Local Market,107.47,18.26,4773
+895,Bangladesh,26,Female,Medium (2-10 acres),Rice,18484,Tube well,Primary,30,Local Market,30.75,11.06,4854
+896,Nepal,70,Male,Small (<2 acres),Tomato,8574,Canal,Secondary,46,Regional Market,192.84,19.49,6873
+897,Nepal,48,Female,Large (>10 acres),Maize,19776,Tube well,No formal education,25,Export,33.4,10.53,9820
+898,Bangladesh,18,Male,Small (<2 acres),Wheat,1444,Rain-fed,Primary,4,Regional Market,206.73,18.01,8600
+899,Sri Lanka,49,Female,Medium (2-10 acres),Potato,19173,Rain-fed,Primary,41,Regional Market,220.43,16.44,9880
+900,Pakistan,66,Female,Medium (2-10 acres),Tomato,5554,Sprinkler,Primary,16,Local Market,60.78,6.56,763
+901,Sri Lanka,18,Female,Large (>10 acres),Potato,9494,Sprinkler,University,38,Local Market,129.45,18.43,6023
+902,Nepal,32,Female,Medium (2-10 acres),Maize,16859,Rain-fed,No formal education,25,Export,239.74,0.98,9527
+903,Nepal,22,Male,Large (>10 acres),Wheat,729,Sprinkler,College,23,Regional Market,71.25,17.59,5689
+904,Pakistan,35,Male,Small (<2 acres),Sugarcane,9630,Sprinkler,Primary,11,Regional Market,46.75,4.19,9756
+905,Nepal,69,Female,Large (>10 acres),Sugarcane,12150,Sprinkler,Primary,3,Local Market,73.4,2.21,3215
+906,Pakistan,42,Female,Small (<2 acres),Maize,6464,Sprinkler,Secondary,43,Export,83.52,1.85,5891
+907,Bangladesh,58,Male,Medium (2-10 acres),Wheat,8633,Sprinkler,No formal education,2,Local Market,111.1,4.3,3144
+908,Sri Lanka,43,Female,Large (>10 acres),Maize,2382,Tube well,Secondary,22,Regional Market,253.59,7.16,9845
+909,Pakistan,37,Male,Medium (2-10 acres),Sugarcane,17779,Drip,College,32,Local Market,87.6,16.76,3158
+910,Sri Lanka,44,Male,Small (<2 acres),Rice,3981,Tube well,No formal education,41,Local Market,183.53,19.22,9936
+911,Nepal,21,Male,Large (>10 acres),Wheat,19951,Canal,College,2,Regional Market,290.95,8.0,1052
+912,Bangladesh,58,Female,Small (<2 acres),Sugarcane,18593,Canal,University,32,Export,101.28,7.5,8837
+913,India,24,Female,Large (>10 acres),Sugarcane,9451,Drip,Primary,10,Export,46.56,10.41,2024
+914,Bangladesh,40,Female,Medium (2-10 acres),Maize,16849,Sprinkler,Primary,38,Local Market,142.01,9.98,9304
+915,India,30,Female,Small (<2 acres),Rice,4533,Rain-fed,No formal education,6,Regional Market,99.78,5.8,1855
+916,India,68,Female,Medium (2-10 acres),Maize,19731,Canal,College,12,Regional Market,226.53,9.95,5456
+917,Sri Lanka,69,Female,Large (>10 acres),Wheat,10441,Rain-fed,Secondary,38,Local Market,168.02,10.57,2008
+918,Nepal,63,Female,Medium (2-10 acres),Potato,17602,Rain-fed,University,9,Export,200.33,2.28,7231
+919,Bangladesh,43,Female,Medium (2-10 acres),Cotton,1425,Tube well,College,28,Local Market,211.19,12.1,3229
+920,Pakistan,36,Female,Small (<2 acres),Rice,8083,Sprinkler,College,17,Regional Market,89.39,8.96,5763
+921,India,38,Male,Small (<2 acres),Cotton,11483,Sprinkler,Primary,6,Local Market,155.33,19.18,9767
+922,Bangladesh,25,Male,Small (<2 acres),Sugarcane,9789,Tube well,Secondary,32,Local Market,37.73,18.07,2614
+923,Bangladesh,69,Female,Medium (2-10 acres),Tomato,18208,Drip,Primary,21,Export,205.72,7.27,2259
+924,Nepal,34,Female,Large (>10 acres),Cotton,4821,Sprinkler,No formal education,46,Local Market,82.37,3.44,2497
+925,Pakistan,38,Female,Small (<2 acres),Potato,13239,Sprinkler,Secondary,3,Regional Market,13.39,6.31,6869
+926,Sri Lanka,30,Male,Medium (2-10 acres),Wheat,7245,Sprinkler,No formal education,9,Export,299.9,15.93,4029
+927,Bangladesh,35,Male,Large (>10 acres),Rice,3300,Rain-fed,University,7,Regional Market,259.68,3.52,1808
+928,Sri Lanka,37,Male,Medium (2-10 acres),Tomato,14666,Sprinkler,No formal education,40,Regional Market,242.65,17.01,6806
+929,Sri Lanka,23,Female,Medium (2-10 acres),Potato,18088,Rain-fed,Primary,4,Local Market,118.19,6.31,7939
+930,Nepal,52,Male,Large (>10 acres),Tomato,1756,Tube well,Secondary,11,Local Market,298.67,14.43,6968
+931,Bangladesh,66,Male,Small (<2 acres),Wheat,11111,Rain-fed,College,15,Local Market,222.4,17.6,7248
+932,Sri Lanka,22,Male,Small (<2 acres),Maize,18851,Canal,College,2,Regional Market,288.8,6.43,6399
+933,Sri Lanka,21,Male,Small (<2 acres),Sugarcane,1544,Canal,Secondary,11,Regional Market,15.62,6.48,2217
+934,India,24,Female,Large (>10 acres),Sugarcane,12219,Canal,College,7,Local Market,81.7,10.25,2456
+935,Bangladesh,69,Male,Medium (2-10 acres),Tomato,5363,Sprinkler,Primary,28,Regional Market,23.2,1.02,5808
+936,Nepal,59,Male,Large (>10 acres),Tomato,13903,Tube well,University,48,Export,182.27,19.42,3037
+937,Bangladesh,35,Female,Large (>10 acres),Cotton,8755,Tube well,Secondary,39,Export,32.73,8.83,796
+938,Bangladesh,58,Male,Large (>10 acres),Sugarcane,10783,Canal,University,33,Export,212.42,6.03,5242
+939,India,50,Male,Small (<2 acres),Rice,16817,Rain-fed,University,2,Regional Market,59.47,4.48,8041
+940,Sri Lanka,23,Female,Large (>10 acres),Potato,5723,Canal,Secondary,1,Regional Market,293.7,0.8,4041
+941,Pakistan,28,Female,Large (>10 acres),Potato,14864,Tube well,University,27,Export,104.25,1.06,3595
+942,Pakistan,28,Male,Large (>10 acres),Wheat,5304,Rain-fed,No formal education,15,Local Market,205.67,10.7,9531
+943,Sri Lanka,63,Male,Large (>10 acres),Maize,17869,Canal,University,15,Local Market,103.6,18.33,5328
+944,Bangladesh,43,Female,Small (<2 acres),Maize,9725,Rain-fed,Secondary,42,Regional Market,24.85,18.11,2934
+945,Nepal,30,Male,Small (<2 acres),Rice,7027,Rain-fed,No formal education,28,Local Market,75.46,19.29,3085
+946,Bangladesh,44,Male,Small (<2 acres),Tomato,5987,Drip,College,10,Local Market,146.99,18.9,8890
+947,India,69,Female,Large (>10 acres),Sugarcane,1760,Sprinkler,College,17,Export,67.34,14.67,4243
+948,Pakistan,21,Male,Medium (2-10 acres),Maize,14721,Sprinkler,Secondary,12,Export,232.57,13.23,1768
+949,Pakistan,52,Female,Medium (2-10 acres),Sugarcane,7245,Sprinkler,No formal education,38,Export,115.04,12.27,6966
+950,Bangladesh,49,Female,Medium (2-10 acres),Sugarcane,3107,Tube well,University,28,Regional Market,37.5,10.08,2229
+951,India,70,Male,Small (<2 acres),Rice,6857,Tube well,Primary,45,Export,125.35,18.16,3336
+952,Pakistan,44,Female,Small (<2 acres),Cotton,14343,Rain-fed,No formal education,39,Export,47.18,14.49,4822
+953,Nepal,48,Male,Medium (2-10 acres),Wheat,1881,Drip,University,46,Local Market,149.4,4.14,5969
+954,Pakistan,19,Male,Medium (2-10 acres),Sugarcane,987,Rain-fed,Secondary,36,Local Market,64.09,10.3,9101
+955,Bangladesh,37,Female,Large (>10 acres),Wheat,7187,Rain-fed,College,6,Regional Market,200.58,11.42,6188
+956,Sri Lanka,19,Male,Medium (2-10 acres),Cotton,17947,Tube well,No formal education,48,Export,19.46,14.2,2888
+957,India,42,Male,Medium (2-10 acres),Wheat,15741,Drip,College,21,Local Market,299.79,17.8,1327
+958,Sri Lanka,31,Male,Small (<2 acres),Cotton,14308,Rain-fed,Primary,46,Regional Market,50.32,15.57,9251
+959,Nepal,41,Male,Small (<2 acres),Sugarcane,11437,Drip,College,25,Local Market,81.68,6.5,8554
+960,Bangladesh,69,Male,Medium (2-10 acres),Wheat,15310,Canal,Primary,17,Export,21.55,5.26,6617
+961,Sri Lanka,32,Male,Medium (2-10 acres),Tomato,18343,Sprinkler,Primary,10,Local Market,103.42,8.68,8041
+962,India,47,Male,Small (<2 acres),Sugarcane,12471,Canal,Primary,1,Export,150.23,5.21,2524
+963,Nepal,27,Male,Small (<2 acres),Wheat,8444,Drip,Secondary,12,Regional Market,47.85,17.54,9790
+964,Pakistan,55,Male,Small (<2 acres),Rice,16002,Rain-fed,Secondary,18,Export,209.49,10.41,6876
+965,Sri Lanka,28,Female,Small (<2 acres),Wheat,16002,Sprinkler,Secondary,28,Regional Market,281.87,6.66,7694
+966,Pakistan,27,Female,Large (>10 acres),Maize,11431,Drip,Secondary,27,Export,222.62,16.66,3725
+967,India,25,Male,Large (>10 acres),Potato,3416,Drip,University,5,Local Market,256.79,2.64,2059
+968,Pakistan,54,Female,Small (<2 acres),Sugarcane,8801,Sprinkler,College,28,Regional Market,233.02,1.59,7001
+969,India,38,Female,Medium (2-10 acres),Sugarcane,18003,Rain-fed,University,2,Export,221.97,4.08,9112
+970,Sri Lanka,35,Female,Large (>10 acres),Rice,9884,Rain-fed,College,44,Local Market,55.88,3.94,2621
+971,India,52,Female,Small (<2 acres),Tomato,8068,Rain-fed,Secondary,24,Export,100.16,18.9,3703
+972,India,53,Female,Small (<2 acres),Maize,4271,Rain-fed,University,10,Local Market,277.75,14.32,2975
+973,Pakistan,61,Female,Small (<2 acres),Cotton,1553,Sprinkler,Secondary,3,Local Market,28.09,14.3,9860
+974,Sri Lanka,51,Female,Medium (2-10 acres),Potato,19263,Canal,University,36,Local Market,176.59,12.68,2995
+975,Nepal,56,Male,Medium (2-10 acres),Maize,6830,Canal,Secondary,34,Local Market,107.27,6.9,1538
+976,Sri Lanka,67,Female,Small (<2 acres),Potato,13851,Drip,No formal education,20,Export,71.59,6.12,2454
+977,Pakistan,42,Male,Small (<2 acres),Rice,1293,Sprinkler,College,33,Regional Market,272.22,11.29,2252
+978,Sri Lanka,40,Male,Medium (2-10 acres),Potato,10883,Tube well,College,8,Regional Market,234.45,12.77,9678
+979,Pakistan,19,Female,Small (<2 acres),Tomato,5982,Sprinkler,Secondary,29,Regional Market,186.79,5.82,6748
+980,Nepal,60,Male,Large (>10 acres),Rice,18339,Rain-fed,University,10,Regional Market,130.87,6.32,827
+981,Sri Lanka,51,Female,Medium (2-10 acres),Maize,18874,Drip,Secondary,49,Export,154.78,17.56,6087
+982,India,27,Female,Small (<2 acres),Potato,11125,Canal,No formal education,14,Local Market,37.14,13.94,9365
+983,Sri Lanka,54,Female,Medium (2-10 acres),Potato,882,Tube well,Primary,36,Export,244.43,18.67,8532
+984,Sri Lanka,57,Female,Small (<2 acres),Wheat,4452,Sprinkler,No formal education,19,Export,100.03,12.22,2912
+985,Bangladesh,30,Female,Large (>10 acres),Rice,11829,Sprinkler,College,8,Regional Market,190.2,0.65,2627
+986,India,41,Female,Small (<2 acres),Wheat,13300,Tube well,Secondary,49,Export,10.3,5.64,2760
+987,India,56,Male,Small (<2 acres),Wheat,14472,Drip,University,5,Export,104.77,5.76,2850
+988,Pakistan,50,Male,Large (>10 acres),Tomato,2793,Rain-fed,University,18,Regional Market,120.1,9.59,8255
+989,Pakistan,70,Female,Small (<2 acres),Rice,9773,Rain-fed,Secondary,10,Local Market,39.82,6.58,912
+990,Sri Lanka,31,Male,Medium (2-10 acres),Maize,10341,Sprinkler,No formal education,27,Local Market,260.9,4.82,8657
+991,Sri Lanka,56,Male,Medium (2-10 acres),Potato,19187,Drip,Primary,20,Export,94.24,11.56,7102
+992,Bangladesh,54,Male,Large (>10 acres),Cotton,9606,Tube well,University,8,Local Market,292.32,3.16,6938
+993,Nepal,32,Male,Large (>10 acres),Rice,3650,Sprinkler,College,44,Local Market,172.23,17.96,5577
+994,India,69,Female,Small (<2 acres),Potato,12933,Rain-fed,Secondary,43,Regional Market,216.32,19.81,6859
+995,Pakistan,66,Female,Small (<2 acres),Tomato,3340,Rain-fed,No formal education,7,Export,129.28,4.62,9685
+996,Sri Lanka,54,Female,Small (<2 acres),Rice,12567,Sprinkler,College,11,Regional Market,226.65,16.73,3391
+997,India,22,Male,Small (<2 acres),Wheat,18240,Rain-fed,University,40,Regional Market,68.56,14.34,9828
+998,Sri Lanka,39,Female,Medium (2-10 acres),Maize,10445,Rain-fed,College,24,Regional Market,218.91,19.06,8814
+999,Nepal,63,Male,Small (<2 acres),Potato,8242,Rain-fed,University,4,Regional Market,157.47,1.1,5545
+1000,Bangladesh,68,Female,Large (>10 acres),Rice,10181,Drip,Primary,15,Local Market,284.76,5.22,5685
